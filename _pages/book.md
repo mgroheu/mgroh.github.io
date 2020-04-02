@@ -52,4 +52,4 @@ Small overview of each chapter.
 
 <p style="text-align: center; font-weight: bold;">Many people have used the techniques used in this book to improve their business.</p>
 
-My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality. More informations you can find <a href="{{ site.baseurl }}/about/">here</a>.
+My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality. More informations you can find <a href="{{ site.baseurl }}/about">here</a>.
