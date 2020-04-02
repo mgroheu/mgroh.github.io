@@ -1,0 +1,71 @@
+# Site
+name: "Maximilian Groh - digital and strategy geek with PhD"
+title: "Maximilian Groh - digital and strategy geek with PhD"
+description: "Blogging about the digital economy, brand and strategic management."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+# baseurl: ''
+#url: 
+google_analytics: 'UA-38797527-3'
+disqus: 'mgroheu'
+mailchimp-list: 'https://mgroh.us19.list-manage.com/subscribe/post?u=eff220ed7536f3c4b319d663e&amp;id=ba08c7b3b5'
+include: ["_pages"]
+permalink: /blog/:title/
+
+# Authors
+authors:
+  mg:
+    name: Maximilian Groh
+    display_name: Dr Maximilian Groh
+    gravatar:
+    avatar: 'assets/images/avatar.png'
+    email: contact@mgroh.eu
+    web: https://www.mgroh.eu
+    twitter: https://twitter.com/mgroh_eu
+    linkedin: https://www.linkedin.com/in/maxgroh/
+    donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url
+    description: "Love e-commmerce & brand management, meaningful relationships, and getting things done. Fascinated by people, work, leadership, and strategy."
+   
+ 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_trail: 2
+paginate_show_first_and_last: true
+paginate_path: /page:num/
+
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-0496313527081388"
+adsense-data-ad-slot: "8100853009"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,89 @@
+---
+layout: post
+featured: false
+toc: false
+cite: true
+title: Methods of Risk Assessment in Brand management
+description: Let us take a look at methods of risk assesstment in brand management.
+author: mg
+tags: [brand management, risk assessment, analysis, methods]
+categories: [brand management]
+series: Brand management
+canonical_url: https://mgroh.eu/blog/methods-of-risk-assessment-in-branding
+image: assets/images/2016/05/methods-of-risk-assessment-in-branding.jpg
+image_credits: <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@helloquence?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Helloquence"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Helloquence</span></a>
+---
+
+
+---
+If you choose to launch your own brand, before you do it, I recommend that you should assess the risks in brand management. To assess the risks in brand management, it is advisable to use the methods of risk management. In my opinion, four main groups of methods of assessment of risks in brand management can be distinguished: <em>expert opinion methods, methods of checklists of risk sources, scenario analysis methods and factor analysis methods</em>. The groups of methods of assessment of risks in brand management are given in Table 1.
+
+<center>Table 1. Methods of Risk Assessment in Branding</center>
+
+![table 1](/assets/images/2020/04/methods-of-risk-assessment-in-branding_table_1.png)
+
+
+<p>Every group of methods has its own field of application as well as advantages and disadvantages. Let us consider the methods in more details and determine those by means of which one can assess each of the risks in brand management identified by me.</p>
+<p>The algorithm of risk analysis is assumed to be as follows:</p>
+<ol>
+<li>The level acceptable for an organization engaged in implementation of this project shall be determined for every type of risk. The threshold level shall be determined on 100-point scale.</li>
+<li>If necessary, differentiated assessment of experience level of experts shall be carried out and shall be confidential. Such assessment shall be carried out on 10-point scale.</li>
+<li>Risk shall be assessed by the experts with respect to probability of occurrence of a risk event (in unit fractions) and to jeopardy of this risk for successful completion of a project (on 100-point scale).</li>
+<li>Based on the assessment carried out by the experts, the integrated level shall be calculated for every type of risks.</li>
+<li>The integrated index obtained by means of the expert survey shall be compared to the maximum allowable level for every type of risks and a decision shall be made whether risk of this type is acceptable for the project developers.</li>
+<li>If the accepted threshold level of one or several types of risks is lower than the obtained integrated values, an action plan shall be developed which is aimed at diminishing of influence of the identified risks on the successful implementation of the project and a repeated analysis of risks shall be carried out.</li>
+</ol>
+<h3><strong>Expert Opinion Methods</strong></h3>
+<p>Rating-based method is one of the types of the expert opinion methods. The main difference of this method from the expert opinion methods is that it is possible to use semi-formalized procedures.</p>
+<p>Simplicity of calculations and absence of necessity in special-purpose software are the merits of the expert opinion methods. The demerits of this group of methods imply possibility of biased assessment of the involved experts and difficulty in finding and involving of experts in the required field.</p>
+<p>To my mind, the expert opinion methods can be used as the main methods for assessment of the following risks in brand management: copying and imitation of brand by competitors, associating of brand with illegal activity and poor response of target audiences to brand communications.</p>
+<p>In my opinion, the risk copying and imitation of brand by competitors enables to evaluate the expert opinion method most effectively. Risk of this type depends on the particularity of legislation of the country in which the company promotes its brand. That is why it is required to involve law experts who can identify and assess risk of this type.</p>
+<p>Assessment of the risk of associating of brand with illegal activity can be carried out by means of semi-formalized procedures with the use of rating-based method. For this purpose, brand manager shall find out the types of illegal activities with which the brand may be associated in one way or other and rate the risks.</p>
+<p>Risk of poor response of target audiences to brand communications can be most effectively identified by experts in the field of marketing communications, based on their experience in developing of brand communications. If the acceptable level of risk is exceeded, it is required to work out measures for reducing of the risk.</p>
+<p>Risk of violation of law in brand communications can be assessed by way of involvement of experts and making of a list of quality indicators with reliance whereof an assessment shall be carried out. Experts shall identify the problem areas of arising risks of law violation and predict the probable consequences of occurrence of these risks. Then, to carry out a more accurate analysis of the risk of violation of law in brand communications, it is recommended to use the method of checklists of risk sources.</p>
+<p>To assess the risk of inadequate demand for new product, experience of the experts gained in the course of market launch of new products could be useful. That is why experts in new product development and experts in market promotion shall be included in the expert team. However, it is the scenario analysis methods and factor analysis methods that enable to assess the risk of inadequate demand for new product more accurately.</p>
+<p>Risk of unbalanced brand portfolio can be assessed by way of involvement of experts in the field of product assortment management. However, similar to the previous type of risk, scenario analysis methods and factor analysis methods shall be the main methods of assessment.</p>
+<p>Assessment of the risk of lack of mechanism of brand monetization shall be carried through the use of one of the expert opinion methods, namely, the rating-based method. Brand manager can rank these risks and by doing so he can establish a system of assessment of the risk of lack of mechanism of brand monetization which is the most appropriate for his company. Usefulness of ranking of these types of risks will increase as the brand manager gains experience and as the database of previous assessments is enhanced.</p>
+<p>Risk of inadequate control of brand communications can be identified and assessed with the help of experts in the field of marketing communications. The experts shall identify jeopardizes of uncontrolled amplification and imposing of their opinion by some customers on other customers. If the level of risk exceeds the allowed value, brand managers shall regain control of the brand communications and switch to the traditional and obvious market-speaks.</p>
+<h3><strong>Method of Checklists of Risk Sources </strong></h3>
+<p>Practicing of the method of checklists of risk sources can solve the task of identifying of adverse situations for the purpose of identification of risks. Risks can be grouped by definite attributes in these checklists. This method helps the company to analyze previous mistakes and to avoid them in future. Complexity of this method is in making of such checklist and in its correct interpretation.</p>
+<p>As I see it, the method of checklists of risk sources is the most suitable for identification of such risks in brand management as the risk of violation of law in brand communications, the risk of discrepancy between brand value and values of target audiences and the risk of inadequate control of brand communications. Let us take a closer look at the peculiarities of usage of this method with respect to each of the mentioned groups of risks.</p>
+<p>The method of checklists of risk sources enables to detect the risk of violation of law in brand communications by the most effective way, since changes in legislation take place rather seldom. Therefore, with due account for his previous activities, brand manager can make checklists of risk sources in communications which shall be updated, using the information of projects of other companies.</p>
+<p>Risk of discrepancy between brand value and values of target audiences can be also assessed by the method of checklists of risk sources. To do so, brand manager shall identify a list of values which the brand personifies for consumers as well as a list of values with which the brand shall not be associated. Relying on these data, one can identify the risks which arise as a result of discrepancy between brand value and values of target audiences.</p>
+<p>The method of checklists of risk sources can be used as a supplementary method to the main one for assessment of the risk of inadequate demand for new product, the risk of poor response of target audiences to brand communications and of the risk of lack of mechanism of brand monetization.</p>
+<p>Checklist of sources of the risk of poor response of target audiences to brand communications shall include the mistakes made in the previous communications with consumers, intermediaries, competitors, customers and with other reference groups. It is required to analyze the previous mistakes and the losses entailed by them. But the expert opinion method is the main method for assessment of this risk, enabling to identify the risks of poor response of target audiences to brand communications more accurately.</p>
+<h3><strong>Scenario Analysis Methods</strong></h3>
+<p>The group of the scenario analysis methods is based on simulation of several case scenarios: optimistic, most likely and pessimistic. Risks are evaluated for each scenario. This method enables to obtain information of possible deviations in the project with due consideration for interaction of the existing factors. Possibility to obtain a conclusive vision of probable scenarios of progress of the project is the merit of the scenario analysis methods. Focus on analysis of only the performance indicators (NPV,IRR and PI) can be considered to be the demerit of these methods.</p>
+<p>From my point of view, the scenario analysis methods are the most effective for identification of such risks in brand management as the risk of inadequate demand for new product, the risk of unbalanced brand portfolio and the risk of lack of mechanism of brand monetization.</p>
+<p>The scenario analysis methods enable to identify and assess the risks of inadequate demand for new product since, by using these methods, brand manager can simulate several scenarios of consumer demand: optimistic, most likely and pessimistic. Subsequent to the results of simulation, it is required to assess the risks for each scenario. Based on the information of possible deviations in the project, a decision shall be made with respect to extent of acceptability of the level of this risk and, as the case may be, to reasonability of launching of a new product.</p>
+<p>The scenario analysis methods are really suitable for identification of the risk of lack of mechanism of brand monetization. Brand manager shall work out the optimistic, pessimistic   and the most likely scenarios with respect to the ways of brand monetization. Then it is required to calculate values of the performance indicators (NPV, IRR and PI) for each scenario. Based on the analysis of obtained information, the brand manager can make a decision.</p>
+<p>To assess the risk of copying and imitation of brand by competitors, it is required to draw up scenarios of actions of the competitors and to analyze risks for each scenario, in which case the expert opinion methods shall serve as the main methods of assessment of this type of risk.</p>
+<h3><strong>Factor Analysis Methods</strong></h3>
+<p>These methods enable to take into consideration impact of various factors on the results of operation of the company. Such methods as analysis of breakeven point, the sensitivity analysis method and the Monte Carlo method can pertain to the group of factor analysis methods.</p>
+<p>The sensitivity analysis method involves assessment and analysis of impact of the initial project parameters on its final characteristics and enables to find out how effectiveness of the project will change when its initial characteristics change. The parameters to be changed are chosen according to the objectives of research. The following phases of risk analysis by means of the sensitivity analysis method can be distinguished:</p>
+<ol>
+<li>Varying factors shall be chosen which are uncertain for the brand manager.</li>
+<li>Interrelation between the initial and the resulting indicators shall be established in the form of equation or inequality.</li>
+<li>Ranges of change of the initial variables shall be determined.</li>
+<li>Impact of the changing variables on the final characteristics of the project shall be analyzed.</li>
+</ol>
+<p>Visibility of impact of certain factors on the final result is the merit of this method. The demerit of this method is in its single-factor approach since it does not take into consideration that change of one variable may result in change of another variable.</p>
+<p>Analysis of breakeven point enables to determine the sales volume when proceeds from sales are the same as the costs. Besides, this method makes it possible to determine the sales volume which enables to obtain the planned amount of profit as well as to analyze dependence of the profit on change in price and the share of every product in the share of coverage of the total costs.</p>
+<p>The principle of the Monte Carlo method is to build a model which consists of random values. A number of simulations are made to find out how the initial data influence the values dependent on them. The main difference of this method from other factor analysis methods is that simulation by means of the Monte Carlo method involves statistical distribution rather than use of actual market factors. The following phases of risk analysis by means of the Monte Carlo method can be mentioned:</p>
+<ol>
+<li>Interrelation between the input and the output indicators shall be established in the form of equation or inequality.</li>
+<li>Distribution functions shall be defined for the input parameters of the model.</li>
+<li>A number of computer experiments shall be carried out with the model.</li>
+<li>Distribution function of the model shall be built and risk parameters shall be calculated.</li>
+<li>Analysis of the obtained results shall be carried out.</li>
+</ol>
+<p>The merits of this method are attributable to great complexity of project solutions, instability and uncertainty of information in implementing of projects. The main difficulty related to use of the Monte Carlo method is to choose adequate distribution for each market factor and assessment of its parameters. Another challenge involves significant consuming of time and technical resources.</p>
+<p>The factor analysis methods can be used as supplementary methods for assessment of the risk of copying and imitation of brand by competitors and the risk of lack of mechanism of brand monetization. For example, the Monte Carlo method enables to assess the risk of copying and imitation of brand by competitors. To do so, brand manager shall build a model consisting of random values with which a number of computer experiments shall be carried out to find to find out how the initial data influence the values dependent on them. That is, it is required to build a model which reflects dependence of profit on actions of the competitors. However, when using this method, difficulties may rise with respect to choosing of adequate distribution. That is why the expert opinion methods shall be used as the main methods for assessment of risk of this type.</p>
+<p>The sensitivity analysis method is suitable for assessment of the risk of lack of mechanism of brand monetization. Number of the product users, average cost of purchase, etc. can serve as the varying value in this case. Profit and additional income gained from sale of auxiliary services can be used as the resultant. However, taking into consideration the limitations of using of this method, the scenario analysis methods shall be used as the main methods for assessment of the risk of lack of mechanism of brand monetization.</p>
+<p><em>The above methods of assessment of risks in brand management can help you to choose the optimal set of methods for identifying and assessment of risks in branding.</em></p>
+
+---
+
+<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
+
+---
