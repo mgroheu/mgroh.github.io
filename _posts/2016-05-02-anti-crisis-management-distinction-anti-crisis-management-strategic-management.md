@@ -7,7 +7,7 @@ title: Distinction between Anti-Crisis Management and Strategic Management
 description: 
 author: mg
 tags: [strategic management, crisis management, analysis]
-categories: [Anti-Crisis Management]
+categories: [anti-crisis management]
 series: Crisis management
 last_modified_at: 
 image: assets/images/2016/05/anti-crisis-management-distinction-anti-crisis-management-strategic-management.jpg

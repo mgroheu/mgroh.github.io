@@ -10,7 +10,7 @@ google_analytics: 'UA-38797527-3'
 disqus: 'mgroheu'
 mailchimp-list: 'https://mgroh.us19.list-manage.com/subscribe/post?u=eff220ed7536f3c4b319d663e&amp;id=ba08c7b3b5'
 include: ["_pages"]
-permalink: /blog/:categories/:title/
+permalink: /blog/:title/
 
 # Authors
 authors:
