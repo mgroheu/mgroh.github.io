@@ -16,7 +16,6 @@ image_credits: <a style="background-color:black;color:white;text-decoration:none
 
 
 ---
-
 Lately it can be easily noticed that anti-crisis management not only becomes similar to strategic management but is pretty much identified with it in the context of the majority of articles published in the Internet and in books. From what I can see it is crucially incorrect.
 
 The remarkable thing is that anti-crisis management differs from traditional techniques, forms and technologies of management in a number of distinctive features:
