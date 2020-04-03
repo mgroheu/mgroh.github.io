@@ -3,68 +3,334 @@
   <channel>
     <title>Maximilian Groh - digital and strategy geek with PhD</title>
     <description>Blogging about the digital economy, brand and strategic management.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Apr 2020 17:17:01 +0200</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 17:17:01 +0200</lastBuildDate>
+    <link>https://mgroh.eu/</link>
+    <atom:link href="https://mgroh.eu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Apr 2020 22:08:48 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2020 22:08:48 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Primary Approaches to Change Management in Company Business</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;Changes in strategy, business processes, structure and culture, can be made progressively, in small steps, or radically, in great leaps.
+The agility of implementation and degree of novelty of organizational changes are the main differences between these two approaches. Organizational development and reengineering of business processes are on the opposite ends, with compromise alternatives of development in between.&lt;/p&gt;
+
+&lt;h2 id=&quot;reengineering-of-company-business&quot;&gt;Reengineering of Company Business&lt;/h2&gt;
+
+&lt;p&gt;Reengineering is a fundamental rethinking and radical redesign of an enterprise and its most essential processes. All these results in dramatic improvement (by an order of magnitude) of the most critical quantified indicators of costs, quality, the performance of service and time frames. According to this concept, it is a case of in-depth restructuring of an enterprise involving the entire value chain. The process of satisfaction of customer needs shall also be subject to radical restructuring.&lt;/p&gt;
+
+&lt;p&gt;Orientation towards the business process and customers is the main prerequisite for achieving the objectives of reengineering as well as creative use of the state-of-the-art information technology at the workplaces of qualified employees. New solutions shall be intentionally implemented by undemocratic means. Management shall be concentrated in the hands of a tiny number of persons who are vested with all the required legitimate power so that to implement the intended changes vigorously and in a short period.
+The satisfaction of needs of internal and external customers is at the heart of any restructuring of business processes. What shall be designated as the core processes depend on the strategy of the enterprise? The main focus shall be placed only on some of them (for example, development of new products, integration of logistics, etc.).&lt;/p&gt;
+
+&lt;p&gt;Supporting processes shall be optimized not in isolation but only with due account for the needs of the core processes. A new approach is required to the issue of the so-called points of overlapping interests.
+Special attention is paid to information technology. The objective of the implementation of information technology is to process information about customers and business processes to the full extent. However, this means entirely new fields of application rather than just the automation of processes. Owing to the objective-oriented use of data banks, expert systems and telecommunication networks, one can significantly extend the areas of responsibility of employees.&lt;/p&gt;
+
+&lt;p&gt;The enhanced data bank will not give the desired results if the expertise of employees is not changed, which means not only organizational parameters (duties and powers) but also purely qualification settings (capabilities, abilities and skills).
+Cooperation of personnel (for example, in workgroups) shall be radically improved. When required, an employee shall have a means of communication with any colleague. Other changes are also necessary with respect to human resource management. Thus, a compensation plan (remuneration) is especially important. Incentive system should be oriented, first of all, towards actual capabilities of employees rather than towards their previous merits and achievements.
+Small companies are oriented towards reengineering to a lesser extent as compared to industrial enterprises since headcount of the former is small and such companies have no complicated system, of business processes which can be subjected to radical restructuring.&lt;/p&gt;
+
+&lt;h2 id=&quot;changes-within-the-scope-of-organizational-development&quot;&gt;Changes within the Scope of Organizational Development&lt;/h2&gt;
+
+&lt;p&gt;Organizational development shall be understood to mean the concept of planning, launching and implementation of the processes of changing social systems with involvement of a wide range of participants.
+Organizational development is defined and a long-term, thorough and comprehensive process of changing and development of an organization and people working in it. The process is based on the training of all the employees by way of direct interaction and transfer of the field experience. The purpose of changes is to improve both the performance of an organization and the quality of work.
+Members of the organization shall implement changes. Internal and external consultants (the so-called change agents) can serve as auxiliary labour but not as the critical implementators of changes. Excessive hierarchical levels shall be eliminated, and relations of powers shall come down to partnership with the focus on mutual confidence.&lt;/p&gt;
+
+&lt;p&gt;A comprehensive concept of organizational development includes both structure-related and personnel-related aspects. An attempt is made within the scope of the structure-related approach to create favourable frame conditions for the achievement of the objectives of organizational development by means of changes in organizational regulations (for example, organizational plans, descriptions of certain role-based functions). The personnel-related approach implies taking of measures aimed at improving the skills of employees (development of personnel) and encouraging to accepting and implementing changes. The setting of objectives of the organizational development (economic and social performance) shall rely on a combination of these two approaches.&lt;/p&gt;
+
+&lt;p&gt;Organizational development is implemented in stages. At first, the unfreezing of the social system shall take place. Viewpoints, values and behaviour patterns of members of the system are challenged, and expertise of their acceptability for the achievement of the system objectives (efficiency, innovation activity and humanization of labour) is carried out. The movement towards changes begins at the second stage. New behaviour patterns and organizational regulations are tested and solidified in the course of personnel training. Change processes require a logical end as they are known to be endless. That is why stabilizing, and consolidation of the new authorized behaviour patterns and organizational rules are necessary. It takes place at the stage of the so-called refreezing of the process of changes.&lt;/p&gt;
+
+&lt;p&gt;Organizational development is typical of the majority of small companies since it enables them to achieve the objectives of changes with the least possible risks and expenses.
+ &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;small&gt;Table 1. Comparative Analysis of Approaches to Change Management&lt;/small&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table-bordered&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Standard of Comparison&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Reengineering of Business Processes&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Organizational Development&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Origin of Method&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Management consulting; engineering sciences&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Conventional management; social psychology&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Conceptual Framework&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Attempt to analyze the company business from the standpoint of engineering sciences; building of optimal business process as the basis for decision making; process-oriented approach&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Management of company personnel; scientific and intuition-based opinion as the basis for decision making; preferred functional approach&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Main Idea&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Radical rethinking and redesign of business processes and procedures in an organization&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Long-term and comprehensive changing and development of an organization owing to gaining of experience of making of the right decisions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Tasks of Management&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Unconventional view of an organization; building of a team of leading professionals; clear understanding of the optimal business process; persuasion of personnel in appropriateness of the new approach; control of actions leading the changes astray&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Strategic view of business, tasks, position and qualification of members of an organization; maintaining and development of potential of an organization; creation of self-developing basis in the team; involvement of employees affected by changes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Attitude to Personnel&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Granting of additional powers; building of professionals; firing of saboteurs and experts who fall outside of the new system&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Democratization of management; creation of stability and prospects for development; reliance on employees capable of learning and ready to assume responsibility&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Depth of Changes&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Complete rethinking of business processes; discontinuity of process; changes in great leaps&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Time consuming process of training and development; continuity of process; changes in small steps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Timeline&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Project scheduled; results are apparent relatively soon after project completion&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;For a long period of time with a view to strategic development&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Object of Changes&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Enterprise as a whole or the core processes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Enterprise as a whole owing to improvement of its elements&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Significant and quick rise in profitability (economic effectiveness), liquidation of ballasts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Gradual rise in profitability and humanization of labor (social performance)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Applicability&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Stagnation of an enterprise and low profitability; liquidity crisis, failure to succeed&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Not limited&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Strategy of Changes&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Top-down strategy&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Top-down strategy; bottom-up strategy; bipolar strategy; multiple point strategy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Methodological Approaches&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Reengineering of processes in compliance with the marketing strategy; adoption of organizational structures and job duties; changing of value system of employees (orientation towards the process of value creation or towards customers); implementation of the state-of-the-art information technology; re-training of personnel&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Structure-based and personnel-based approach (new forms of organizational structures; change of viewpoints and behavior patterns of employees; advanced training of employees)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Key Roles&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Leader (with clout); process owner (as its manager); reengineering team; steering committee (consisting of the leader with clout and specialists); reengineering czar as specialist)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Change agents (consisting of specialists and the process owner as consultant); customer system (area under restructuring); catalyst of changes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Strengths&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Applicability in  crisis situations; possibility of radical renovation; possibility of quick rise in profitability; conceptual consistency of measures; significant extension of expertise of specialists; implementation of the state-of-the-art information technologies; availability of techniques and procedures for business modeling&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Continuity of changes; relatively small cost of errors at small intervals of changes; consideration of development ability of members of the system; encouraging of self-management and self-organization; long-term perspective; lack (decrease) of resistance to changes; extensive use of expert opinions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Revolutionary approach; solely process orientation; large cost of error; instability in the phase of changes; limitations of time and actions in connection with the intention of quick improvement of results; exclusion of alternative strategies (only top-down); low social acceptability; high resistance of a part of management&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Insufficient response; overstated requirements to soft skills of participants of the process of organizational development; inadaptability in crisis situations; insufficient IT support&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+Several intermediate alternatives exist in between the extreme forms of changes, that is, business reengineering and organizational development. They can be different in the degree of involvement of members of an organization and freedom of action of the senior management with respect to the implementation of changes. Depending on this, the emphasis is laid on economic and/ or social performance. Type of crisis determines the urgency of changes and, thereby, the extent of their radicality.
+Successful use of one or another method depends heavily on the measures taken with respect to human resource management. Besides taking of measures aimed at retaining employees, differentiated concepts of staff reduction shall not be ignored. Managers of reengineering programs shall solve employment issues without inflicting of moral harm on the dismissed persons and doing their best to ensure the employment of such persons on the labour market.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The objective of change management is to achieve and fulfill the potential of personnel for improving of competitiveness of an enterprise rather than to downsize it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;Please follow me on &lt;a href=&quot;https://twitter.com/mgroh_eu&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/maxgroh/&quot;&gt;Linkedin&lt;/a&gt; for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://mgroh.eu/blog/change-management/primary-approaches-management-changes/</link>
+        <guid isPermaLink="true">https://mgroh.eu/blog/change-management/primary-approaches-management-changes/</guid>
+        
+        <category>change management</category>
+        
+        
+        <category>change-management</category>
+        
+      </item>
+    
+      <item>
+        <title>Marketing Methods of Brand Protection</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;The methodology of brand protection is explained in my article “&lt;a href=&quot;http://groh.me/blog/brand-management/methods-brand-protection/&quot;&gt;Methods of Brand Protection&lt;/a&gt;”. Now the point at issue is about marketing methods of brand protection.  To begin with, I would like to explain what it means. In the first place, it involves protection of image and reputation of a brand which implies making a promise to consumers that they obtain the certain result by using the product to reduce of risk of disappointed expectations for consumers. Reputation shall be understood to mean the dynamic characteristic of company performance which is formed in the society for quite a long period and based on the totality of the information related to the manner and methods used by a business organization for establishing of its behaviour in certain situations. If a favourable image attracts new partners and consumers, then the reputation being developed for years make the partners and consumers remain loyal to the choice once made. In any case, it should be kept in mind that choice of products made by consumers is not always rational and based on the features of the product itself but is determined by the associated perception of a consumer through which the product image is created.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Unless you have absolute clarity of what your brand stands for, everything else is irrelevant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: right;font-weight: bold;&quot;&gt; Mark Baynes, global cmo, Kellogg Co. &lt;/p&gt;
+
+&lt;p&gt;Measures aimed at marketing methods protection of brand can concern one, several or all elements of its structure, ranging from brand platform to verbal and visual attributes of the concept of brand promotion. When working out such measures, the following groups of factors shall be taken into consideration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;needs, expectations and requirements of consumers;&lt;/li&gt;
+&lt;li&gt;mission, vision, key competencies and values of the company owning the brand;&lt;/li&gt;
+&lt;li&gt;perceived values and positioning of brands of competitors;&lt;/li&gt;
+&lt;li&gt;character of communication activity of brands of competitors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Marketing methods of brand protection shall be aimed at creating such characteristics of a brand as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;communicativeness – strong brands change their behaviour as they obtain knowledge about their consumers;&lt;/li&gt;
+&lt;li&gt;having of psycho-emotional impact – consumers purchase those products and services in which they are confident, on quality of which they rely upon and are ready to pay extra for it;&lt;/li&gt;
+&lt;li&gt;globality – brand creators should be guided not only by tastes and preferences of the nation; different approaches should be applied, depending on the positions occupied by the brand on the market of each separate country;&lt;/li&gt;
+&lt;li&gt;informativeness – brands are comprehensive sources of information as well as an instrument enabling to identify a product; the main objective of the creation of brands is to create awareness of customers;&lt;/li&gt;
+&lt;li&gt;integrity – compliance of brand with the essence of the assortment of its products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The implementation of specific measures implements marketing methods of brand protection. The main principles underlying the programs for brand protection include conformity, continuity and consistency. The principle of conformity means that different methods shall be logically interrelated and shall not come into conflict with each other. The principle of continuity implies that methods of brand protection are interconnected and sequential in time. The principle of consistency assumes that several messages support and complement each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Brand extension &lt;/em&gt;involves adding of a new product to the existing line of products under the same name. It is stepping off the brand outside the initial assortment of its products or its category. On the one part, putting of brand in a different category of products enriches its identity not only by association with a different class of goods but also with attributes which can pertain to it.&lt;/p&gt;
+
+&lt;p&gt;On the other part, increasing volumes of sales during a short period, a brand extension can devaluate the entire brand in the long-term and, as a consequence, decrease volumes of sales of all products having the same brand names. In many cases, the extension requires the creation and turning out of a sub-brand, especially if it refers to a new class of products or a new market. The extension can be carried out both towards more expensive products so that to make the brand more significant in the opinion of consumers and towards cheaper products so that to make the brand more affordable, more competitive and to drive up demand.&lt;/p&gt;
+
+&lt;p&gt;For the majority of companies, it is easier to offer new products and services under the brand which has already gained acceptance and is recognizable rather than to build an individual brand from scratch. One of the significant advantages, in this case, is that investments made in the brand are distributed among several products. All the products included in the product line can benefit from positive synergistic effect related to the brand. However, similar to using the strategy of a corporate brand, this effect can have an adverse impact if one of the products fails.  Damaging of the image of one product sold under the family brand can have an adverse impact on all other products offered under such brand. Such adverse influence can occur if not all the products and services combined under one brand fit together by quality or price.&lt;/p&gt;
+
+&lt;p&gt;Therefore, the most critical conditions of the brand extension are as follows: &lt;em&gt;, taking into consideration the real character of brand, understanding and compatibility, retaining brand identity&lt;/em&gt;. The relation between products shall be evident for consumers. The most apparent reason for a brand extension can turn out to be a saturation of the market with some product. In such a case, brand extension is economically justified to a greater extent than expansion into new markets. In my opinion, when it relates to brand extension, it is necessary to avoid an extensive assortment since a too wide array of choices often embarrasses customers and complicates the process of choosing.&lt;/p&gt;
+
+&lt;p&gt;As time passes, almost any brand tends to extend, which result in widening of an assortment of products. In practice, companies employ extension at the phases of maturity and decay. It is more effective when new products and services are closely connected with the old products and services in the perception of consumers. Extending the brand, you gain the following advantages: &lt;em&gt;costs of entry into a market are lower because of the absence of expenses for the development of consumer awareness; expenditures for advertising and other instruments of marketing communications have a more significant effect; risks are lower when bringing a new product on the market&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Analysis of consumers’ preferences and customization of products in compliance with the preferences&lt;/em&gt;. Brand protection shall be implemented by way of close relationships not only with end users but also with retailers since the latter are the most critical purchasers for many brands. Building relationships on the principles of mutual benefit, manufacturers can find additional levers for brand protection. Consumers put more and more value on confidence and stability of long-term relationships with those who understand their specific needs and can satisfy them. All these require that companies rethink the values which they offer to their customers as well as rebrand the products which they manufacture.&lt;/p&gt;
+
+&lt;p&gt;Research of their behavior enables to improve products and includes the following phases:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identifying of early adopters;&lt;/li&gt;
+&lt;li&gt;Getting an insight into their experience and learning of the areas of use of products;&lt;/li&gt;
+&lt;li&gt;Determining of modifications of products;&lt;/li&gt;
+&lt;li&gt;Enhancement of the final products.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Research of expectations and preferences of customers which have a direct and comprehensive impact on the interrelation between the quality of products and customer satisfaction can be carried out by means of methods which can be divided into two types: &lt;em&gt;analysis of value perceived based on functional characteristics and analysis of values perceived based on costs&lt;/em&gt;. The first type involves such methods as:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Consumers' rating and classification.&lt;/li&gt;
+&lt;li&gt;Keeping track of the process of ordering from the earliest stage of its planning till settlements of claims in case of after-sale problems.&lt;/li&gt;
+&lt;li&gt;Analysis of relative efficiency of operations.&lt;/li&gt;
+&lt;li&gt;Kano Model involving analysis of properties of products from the standpoint of functional and dysfunctional aspects.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The second type is related to the analysis of consumer expenses during the lifecycle: expenditures for purchasing and maintenance, operating costs, owning costs and expenditures for disposal.
+&lt;em&gt;Creation of customer value &lt;/em&gt;can be based on the merits of the product itself, advantages of handling and servicing, brand reputation, emotional benefits, psychological value, etc. This ratio between advantages obtained by the consumer as a result of purchasing and using products and expenses for purchasing and using such products. Performance attributes allow for an only small part of the value. Companies should sense the unobvious direction of creation of consumer value and then demonstrate them to consumers. Besides, innovations which create new values in the perception of consumers shall serve as the incentive and drive of readiness to purchase.&lt;/p&gt;
+
+&lt;p&gt;Consumers consider basic requirements for any product as a matter of course. Fulfilment of these requirements cannot trigger any appreciable emotions of consumers. However, failure to fulfil or improper fulfilment of these requirements usually causes a sensation of dissatisfaction. Therefore, basic requirements are always essential, but they have strategic meaning only if they are not fulfilled. Particular emotions can be triggered by such characteristics of products or services which consumers do not expect to obtain or do not take into consideration when making a decision on the purchase.&lt;/p&gt;
+
+&lt;p&gt;Companies should pay special attention to the improvement of the characteristics of products which are of importance for consumers. When creating consumer value, the two-sided process takes place. In essence, brand increases the consumer value of products (consumers get a chance to emphasize a specific social status), and such distinct and unique consumer value enables to attract new consumers and to keep the existing consumers faithful to the choice once made.&lt;/p&gt;
+
+&lt;p&gt;From my point of view, it is the identified and significant consumer values of products or services that the strategy of positioning shall rely on. The classical theory of marketing methods proceeds from the premise that positioning is a process in the course of which companies purposefully communicate with consumers so that to take a definite stand for their products in the perception of consumers. Position of products and the position of the company are determined relative to positions of competitors. That is why you should have your products differentiated, highlighting their attributes which meet expectations of the target audience. The main principles are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;products shall be different from products of competitors;&lt;/li&gt;
+&lt;li&gt;this difference shall be relevant for consumers;&lt;/li&gt;
+&lt;li&gt;consumers shall be aware of this difference.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The majority of consumer groups have no clear ideas about different brands, except for apparent and straightforward properties; and this knowledge is not much different with respect to those who buy branded products and those who don’t buy these products. Therefore, all strategies of &lt;em&gt;positioning and creating of consumer value &lt;/em&gt;shall focus on the advantages relevant for consumers with the use of the company resources for the offering of the real value to the target segment.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, the following can be pertained to the most common mistakes of positioning made by modern enterprises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fuzzy segmentation with the idea of everything for everybody;&lt;/li&gt;
+&lt;li&gt;deviation from target segments;&lt;/li&gt;
+&lt;li&gt;wrong choice of position which does not meet consumer expectations;&lt;/li&gt;
+&lt;li&gt;lack of unique selling proposition which distinguishes products from competitor products;&lt;/li&gt;
+&lt;li&gt;positioning with focus on uniqueness of products without notice of me-too products available at the market with the same parameters;&lt;/li&gt;
+&lt;li&gt;failure to take account of specificity of regional markets;&lt;/li&gt;
+&lt;li&gt;too frequent change of position;&lt;/li&gt;
+&lt;li&gt;lack of appropriate support by marketing communications mix;&lt;/li&gt;
+&lt;li&gt;incorrect advertising communications, as a consequence whereof understanding of brand philosophy by the key consumer segments does not take place.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In general, marketing methods of brand protection employed on all phases of its lifecycle perform different tasks, achieving ultimately of the shared objective. Brand extensions can contribute to its entering into new markets, redistribution of financial risks and to the cutting of costs for the launching of new products.
+In the 21 century, against the background of unfair competition, financial instability and deceptive advertising, crisis management communications become one of the most critical methods of brand protection serving as the techniques of rapid information response to emerging challenges.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;Please follow me on &lt;a href=&quot;https://twitter.com/mgroh_eu&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/maxgroh/&quot;&gt;Linkedin&lt;/a&gt; for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Mon, 06 Jun 2016 00:00:00 +0200</pubDate>
+        <link>https://mgroh.eu/blog/brand-management/marketing-methods-brand-protection/</link>
+        <guid isPermaLink="true">https://mgroh.eu/blog/brand-management/marketing-methods-brand-protection/</guid>
+        
+        <category>brand management</category>
+        
+        <category>brand protection</category>
+        
+        <category>methods</category>
+        
+        
+        <category>brand-management</category>
+        
+      </item>
     
       <item>
         <title>Methods of Risk Assessment in Brand management</title>
         <description>&lt;hr /&gt;
-&lt;p&gt;If you choose to launch your own brand, before you do it, I recommend that you should assess the risks in brand management. To assess the risks in brand management, it is advisable to use the methods of risk management. In my opinion, four main groups of methods of assessment of risks in brand management can be distinguished: &lt;em&gt;expert opinion methods, methods of checklists of risk sources, scenario analysis methods and factor analysis methods&lt;/em&gt;. The groups of methods of assessment of risks in brand management are given in Table 1.&lt;/p&gt;
+&lt;p&gt;If you choose to launch your brand, before you do it, I recommend that you should assess the risks in brand management. To evaluate the risks in brand management, it is advisable to use the methods of risk management. In my opinion, four main groups of methods of assessment of risks in brand management can be distinguished: &lt;em&gt;expert opinion methods, methods of checklists of risk sources, scenario analysis methods and factor analysis methods&lt;/em&gt;. The groups of methods of assessment of risks in brand management are given in Table 1.&lt;/p&gt;
 
 &lt;center&gt;Table 1. Methods of Risk Assessment in Branding&lt;/center&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2020/04/methods-of-risk-assessment-in-branding_table_1.png&quot; alt=&quot;table 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Every group of methods has its own field of application as well as advantages and disadvantages. Let us consider the methods in more details and determine those by means of which one can assess each of the risks in brand management identified by me.&lt;/p&gt;
-&lt;p&gt;The algorithm of risk analysis is assumed to be as follows:&lt;/p&gt;
+&lt;p&gt;Every group of methods has its field of application as well as advantages and disadvantages. Let us consider the methods in more details and determine those by means of which one can assess each of the risks in brand management identified by me.
+The algorithm of risk analysis is assumed to be as follows:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;The level acceptable for an organization engaged in implementation of this project shall be determined for every type of risk. The threshold level shall be determined on 100-point scale.&lt;/li&gt;
-&lt;li&gt;If necessary, differentiated assessment of experience level of experts shall be carried out and shall be confidential. Such assessment shall be carried out on 10-point scale.&lt;/li&gt;
-&lt;li&gt;Risk shall be assessed by the experts with respect to probability of occurrence of a risk event (in unit fractions) and to jeopardy of this risk for successful completion of a project (on 100-point scale).&lt;/li&gt;
+&lt;li&gt;The level acceptable for an organization engaged in the implementation of this project shall be determined for every type of risk. The threshold level shall be determined on a 100-point scale.&lt;/li&gt;
+&lt;li&gt;If necessary, differentiated assessment of experience level of experts shall be carried out and shall be confidential. Such assessment shall be carried out on a 10-point scale.&lt;/li&gt;
+&lt;li&gt;Risk shall be assessed by the experts with respect to the probability of occurrence of a risk event (in unit fractions) and to the jeopardy of this risk for successful completion of a project (on a 100-point scale).&lt;/li&gt;
 &lt;li&gt;Based on the assessment carried out by the experts, the integrated level shall be calculated for every type of risks.&lt;/li&gt;
-&lt;li&gt;The integrated index obtained by means of the expert survey shall be compared to the maximum allowable level for every type of risks and a decision shall be made whether risk of this type is acceptable for the project developers.&lt;/li&gt;
-&lt;li&gt;If the accepted threshold level of one or several types of risks is lower than the obtained integrated values, an action plan shall be developed which is aimed at diminishing of influence of the identified risks on the successful implementation of the project and a repeated analysis of risks shall be carried out.&lt;/li&gt;
+&lt;li&gt;The integrated index obtained by means of the expert survey shall be compared to the maximum allowable level for every type of risks and a decision shall be made whether the risk of this type is acceptable for the project developers.&lt;/li&gt;
+&lt;li&gt;If the accepted threshold level of one or several types of risks is lower than the obtained integrated values, an action plan shall be developed which is aimed at diminishing of influence of the identified risks on the successful implementation of the project and repeated analysis of risks shall be carried out.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;&lt;strong&gt;Expert Opinion Methods&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Rating-based method is one of the types of the expert opinion methods. The main difference of this method from the expert opinion methods is that it is possible to use semi-formalized procedures.&lt;/p&gt;
-&lt;p&gt;Simplicity of calculations and absence of necessity in special-purpose software are the merits of the expert opinion methods. The demerits of this group of methods imply possibility of biased assessment of the involved experts and difficulty in finding and involving of experts in the required field.&lt;/p&gt;
-&lt;p&gt;To my mind, the expert opinion methods can be used as the main methods for assessment of the following risks in brand management: copying and imitation of brand by competitors, associating of brand with illegal activity and poor response of target audiences to brand communications.&lt;/p&gt;
-&lt;p&gt;In my opinion, the risk copying and imitation of brand by competitors enables to evaluate the expert opinion method most effectively. Risk of this type depends on the particularity of legislation of the country in which the company promotes its brand. That is why it is required to involve law experts who can identify and assess risk of this type.&lt;/p&gt;
-&lt;p&gt;Assessment of the risk of associating of brand with illegal activity can be carried out by means of semi-formalized procedures with the use of rating-based method. For this purpose, brand manager shall find out the types of illegal activities with which the brand may be associated in one way or other and rate the risks.&lt;/p&gt;
-&lt;p&gt;Risk of poor response of target audiences to brand communications can be most effectively identified by experts in the field of marketing communications, based on their experience in developing of brand communications. If the acceptable level of risk is exceeded, it is required to work out measures for reducing of the risk.&lt;/p&gt;
-&lt;p&gt;Risk of violation of law in brand communications can be assessed by way of involvement of experts and making of a list of quality indicators with reliance whereof an assessment shall be carried out. Experts shall identify the problem areas of arising risks of law violation and predict the probable consequences of occurrence of these risks. Then, to carry out a more accurate analysis of the risk of violation of law in brand communications, it is recommended to use the method of checklists of risk sources.&lt;/p&gt;
-&lt;p&gt;To assess the risk of inadequate demand for new product, experience of the experts gained in the course of market launch of new products could be useful. That is why experts in new product development and experts in market promotion shall be included in the expert team. However, it is the scenario analysis methods and factor analysis methods that enable to assess the risk of inadequate demand for new product more accurately.&lt;/p&gt;
-&lt;p&gt;Risk of unbalanced brand portfolio can be assessed by way of involvement of experts in the field of product assortment management. However, similar to the previous type of risk, scenario analysis methods and factor analysis methods shall be the main methods of assessment.&lt;/p&gt;
-&lt;p&gt;Assessment of the risk of lack of mechanism of brand monetization shall be carried through the use of one of the expert opinion methods, namely, the rating-based method. Brand manager can rank these risks and by doing so he can establish a system of assessment of the risk of lack of mechanism of brand monetization which is the most appropriate for his company. Usefulness of ranking of these types of risks will increase as the brand manager gains experience and as the database of previous assessments is enhanced.&lt;/p&gt;
-&lt;p&gt;Risk of inadequate control of brand communications can be identified and assessed with the help of experts in the field of marketing communications. The experts shall identify jeopardizes of uncontrolled amplification and imposing of their opinion by some customers on other customers. If the level of risk exceeds the allowed value, brand managers shall regain control of the brand communications and switch to the traditional and obvious market-speaks.&lt;/p&gt;
+&lt;p&gt;The rating-based method is one of the types of expert opinion methods. The main difference of this method from the expert opinion methods is that it is possible to use semi-formalized procedures. The simplicity of calculations and absence of necessity in special-purpose software are the merits of the expert opinion methods. The demerits of this group of methods imply the possibility of biased assessment of the involved experts and difficulty in finding and involving experts in the required field.&lt;/p&gt;
+
+&lt;p&gt;To my mind, the expert opinion methods can be used as the main methods for assessment of the following risks in brand management: copying and imitation of a brand by competitors, associating of a brand with illegal activity and inadequate response of target audiences to brand communications. In my opinion, the risk copying and imitation of a brand by competitors enables to evaluate the expert opinion method most effectively. Risk of this type depends on the particularity of legislation of the country in which the company promotes its brand. That is why it is required to involve law experts who can identify and assess the risk of this type.&lt;/p&gt;
+
+&lt;p&gt;Assessment of the risk of associating of a brand with illegal activity can be carried out by means of semi-formalized procedures with the use of the rating-based method. For this purpose, the brand manager shall find out the types of illegal activities with which the brand may be associated in one way or other and rate the risks. Risk of inadequate response of target audiences to brand communications can be most effectively-identified by experts in the field of marketing communications, based on their experience in developing brand communications. If the acceptable level of risk is exceeded, it is required to work out measures for reducing the risk.&lt;/p&gt;
+
+&lt;p&gt;Risk of violation of law in brand communications can be assessed by way of involvement of experts and making of a list of quality indicators with reliance on which an assessment shall be carried out. Experts shall identify the problem areas of arising risks of law violation and predict the probable consequences of the occurrence of these risks. Then, to carry out a more accurate analysis of the risk of violation of law in brand communications, it is recommended to use the method of checklists of risk sources.&lt;/p&gt;
+
+&lt;p&gt;To assess the risk of inadequate demand for a new product, the experience of the experts gained in the course of the market launch of new products could be useful. That is why experts in new product development and experts in the market promotion shall be included in the expert team. However, it is the scenario analysis methods and factor analysis methods that enable to assess the risk of inadequate demand for a new product more accurately.&lt;/p&gt;
+
+&lt;p&gt;Risk of an unbalanced brand portfolio can be assessed by way of involvement of experts in the field of product assortment management. However, similar to the previous type of risk, scenario analysis methods and factor analysis methods shall be the main methods of assessment. Assessment of the risk of lack of mechanism of brand monetization shall be carried through the use of one of the expert opinion methods, namely, the rating-based method. A brand manager can rank these risks, and by doing so, he can establish a system of assessment of the risk of lack of mechanism of brand monetization, which is the most appropriate for his company. The usefulness of ranking of these types of risks will increase as the brand manager gains experience and as the database of previous assessments is enhanced.&lt;/p&gt;
+
+&lt;p&gt;Risk of inadequate control of brand communications can be identified and assessed with the help of experts in the field of marketing communications. The experts shall identify jeopardizes of uncontrolled amplification and imposing of their opinion by some customers on other customers. If the level of the risk exceeds the allowed value, brand managers shall regain control of the brand communications and switch to the traditional and obvious market-speaks.&lt;/p&gt;
+
 &lt;h3&gt;&lt;strong&gt;Method of Checklists of Risk Sources &lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Practicing of the method of checklists of risk sources can solve the task of identifying of adverse situations for the purpose of identification of risks. Risks can be grouped by definite attributes in these checklists. This method helps the company to analyze previous mistakes and to avoid them in future. Complexity of this method is in making of such checklist and in its correct interpretation.&lt;/p&gt;
-&lt;p&gt;As I see it, the method of checklists of risk sources is the most suitable for identification of such risks in brand management as the risk of violation of law in brand communications, the risk of discrepancy between brand value and values of target audiences and the risk of inadequate control of brand communications. Let us take a closer look at the peculiarities of usage of this method with respect to each of the mentioned groups of risks.&lt;/p&gt;
-&lt;p&gt;The method of checklists of risk sources enables to detect the risk of violation of law in brand communications by the most effective way, since changes in legislation take place rather seldom. Therefore, with due account for his previous activities, brand manager can make checklists of risk sources in communications which shall be updated, using the information of projects of other companies.&lt;/p&gt;
-&lt;p&gt;Risk of discrepancy between brand value and values of target audiences can be also assessed by the method of checklists of risk sources. To do so, brand manager shall identify a list of values which the brand personifies for consumers as well as a list of values with which the brand shall not be associated. Relying on these data, one can identify the risks which arise as a result of discrepancy between brand value and values of target audiences.&lt;/p&gt;
-&lt;p&gt;The method of checklists of risk sources can be used as a supplementary method to the main one for assessment of the risk of inadequate demand for new product, the risk of poor response of target audiences to brand communications and of the risk of lack of mechanism of brand monetization.&lt;/p&gt;
+&lt;p&gt;Practising of the method of checklists of risk sources can solve the task of identifying adverse situations for identification of risks. Specific attributes in these checklists can group risks. This method helps the company to analyze previous mistakes and to avoid them in future. The complexity of this method is in the making of such a checklist and its correct interpretation.&lt;/p&gt;
+
+&lt;p&gt;As I see it, the method of checklists of risk sources is the most suitable for identification of such risks in brand management as the risk of violation of law in brand communications, the risk of a discrepancy between brand value and values of target audiences and the risk of inadequate control of brand communications. Let us take a closer look at the peculiarities of usage of this method with respect to each of the mentioned groups of risks.&lt;/p&gt;
+
+&lt;p&gt;The method of checklists of risk sources enables to detect the risk of violation of law in brand communications by the most effective way since changes in legislation take place rather seldom. Therefore, with due account for his previous activities, a brand manager can make checklists of risk sources in communications which shall be updated, using the information of projects of other companies.&lt;/p&gt;
+
+&lt;p&gt;Risk of a discrepancy between brand value and values of target audiences can also be assessed by the method of checklists of risk sources. To do so, a brand manager shall identify a list of values which the brand personifies for consumers as well as a list of values with which the brand shall not be associated. Relying on these data, one can identify the risks which arise as a result of a discrepancy between brand value and values of target audiences.&lt;/p&gt;
+
+&lt;p&gt;The method of checklists of risk sources can be used as a supplementary method to the main one for assessment of the risk of inadequate demand for a new product, the risk of poor response of target audiences to brand communications and of the risk of lack of mechanism of brand monetization.&lt;/p&gt;
+
 &lt;p&gt;Checklist of sources of the risk of poor response of target audiences to brand communications shall include the mistakes made in the previous communications with consumers, intermediaries, competitors, customers and with other reference groups. It is required to analyze the previous mistakes and the losses entailed by them. But the expert opinion method is the main method for assessment of this risk, enabling to identify the risks of poor response of target audiences to brand communications more accurately.&lt;/p&gt;
+
 &lt;h3&gt;&lt;strong&gt;Scenario Analysis Methods&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;The group of the scenario analysis methods is based on simulation of several case scenarios: optimistic, most likely and pessimistic. Risks are evaluated for each scenario. This method enables to obtain information of possible deviations in the project with due consideration for interaction of the existing factors. Possibility to obtain a conclusive vision of probable scenarios of progress of the project is the merit of the scenario analysis methods. Focus on analysis of only the performance indicators (NPV,IRR and PI) can be considered to be the demerit of these methods.&lt;/p&gt;
-&lt;p&gt;From my point of view, the scenario analysis methods are the most effective for identification of such risks in brand management as the risk of inadequate demand for new product, the risk of unbalanced brand portfolio and the risk of lack of mechanism of brand monetization.&lt;/p&gt;
-&lt;p&gt;The scenario analysis methods enable to identify and assess the risks of inadequate demand for new product since, by using these methods, brand manager can simulate several scenarios of consumer demand: optimistic, most likely and pessimistic. Subsequent to the results of simulation, it is required to assess the risks for each scenario. Based on the information of possible deviations in the project, a decision shall be made with respect to extent of acceptability of the level of this risk and, as the case may be, to reasonability of launching of a new product.&lt;/p&gt;
-&lt;p&gt;The scenario analysis methods are really suitable for identification of the risk of lack of mechanism of brand monetization. Brand manager shall work out the optimistic, pessimistic   and the most likely scenarios with respect to the ways of brand monetization. Then it is required to calculate values of the performance indicators (NPV, IRR and PI) for each scenario. Based on the analysis of obtained information, the brand manager can make a decision.&lt;/p&gt;
-&lt;p&gt;To assess the risk of copying and imitation of brand by competitors, it is required to draw up scenarios of actions of the competitors and to analyze risks for each scenario, in which case the expert opinion methods shall serve as the main methods of assessment of this type of risk.&lt;/p&gt;
+&lt;p&gt;The group of the scenario analysis methods is based on the simulation of several case scenarios: optimistic, most likely and pessimistic. Risks are evaluated for each scenario. This method enables us to obtain information on possible deviations in the project with due consideration for the interaction of the existing factors. Possibility to obtain a conclusive vision of probable scenarios of the progress of the project is the merit of the scenario analysis methods. Focus on analysis of only the performance indicators (NPV, IRR and PI) can be considered to be the demerit of these methods.&lt;/p&gt;
+
+&lt;p&gt;From my point of view, the scenario analysis methods are the most effective for identification of such risks in brand management as the risk of inadequate demand for a new product, the risk of unbalanced brand portfolio and the risk of lack of mechanism of brand monetization.&lt;/p&gt;
+
+&lt;p&gt;The scenario analysis methods enable to identify and assess the risks of inadequate demand for a new product since, by using these methods, a brand manager can simulate several scenarios of consumer demand: optimistic, most likely and pessimistic. Subsequent to the results of the simulation, it is required to assess the risks for each scenario. Based on the information of possible deviations in the project, a decision shall be made with respect to the extent of acceptability of the level of this risk and, as the case may be, to the reasonability of launching of a new product.&lt;/p&gt;
+
+&lt;p&gt;The scenario analysis methods are suitable for identification of the risk of lack of mechanism of brand monetization. Brand manager shall work out the optimistic, pessimistic and the most likely scenarios with respect to the ways of brand monetization. Then it is required to calculate values of the performance indicators (NPV, IRR and PI) for each scenario. Based on the analysis of the obtained information, the brand manager can make a decision.
+To assess the risk of copying and imitation of a brand by competitors, it is required to draw up scenarios of actions of the competitors and to analyze risks for each scenario, in which case the expert opinion methods shall serve as the main methods of assessment of this type of risk.&lt;/p&gt;
+
 &lt;h3&gt;&lt;strong&gt;Factor Analysis Methods&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;These methods enable to take into consideration impact of various factors on the results of operation of the company. Such methods as analysis of breakeven point, the sensitivity analysis method and the Monte Carlo method can pertain to the group of factor analysis methods.&lt;/p&gt;
-&lt;p&gt;The sensitivity analysis method involves assessment and analysis of impact of the initial project parameters on its final characteristics and enables to find out how effectiveness of the project will change when its initial characteristics change. The parameters to be changed are chosen according to the objectives of research. The following phases of risk analysis by means of the sensitivity analysis method can be distinguished:&lt;/p&gt;
+&lt;p&gt;These methods enable us to take into consideration the impact of various factors on the results of the operation of the company. Such methods as analysis of breakeven point, the sensitivity analysis method and the Monte Carlo method can pertain to the group of factor analysis methods.
+The sensitivity analysis method involves assessment and analysis of the impact of the initial project parameters on its final characteristics. It enables us to find out how the effectiveness of the project will change when its fundamental characteristics change. The parameters to be changed are chosen according to the objectives of the research. The following phases of risk analysis by means of the sensitivity analysis method can be distinguished:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Varying factors shall be chosen which are uncertain for the brand manager.&lt;/li&gt;
 &lt;li&gt;Interrelation between the initial and the resulting indicators shall be established in the form of equation or inequality.&lt;/li&gt;
 &lt;li&gt;Ranges of change of the initial variables shall be determined.&lt;/li&gt;
 &lt;li&gt;Impact of the changing variables on the final characteristics of the project shall be analyzed.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Visibility of impact of certain factors on the final result is the merit of this method. The demerit of this method is in its single-factor approach since it does not take into consideration that change of one variable may result in change of another variable.&lt;/p&gt;
-&lt;p&gt;Analysis of breakeven point enables to determine the sales volume when proceeds from sales are the same as the costs. Besides, this method makes it possible to determine the sales volume which enables to obtain the planned amount of profit as well as to analyze dependence of the profit on change in price and the share of every product in the share of coverage of the total costs.&lt;/p&gt;
-&lt;p&gt;The principle of the Monte Carlo method is to build a model which consists of random values. A number of simulations are made to find out how the initial data influence the values dependent on them. The main difference of this method from other factor analysis methods is that simulation by means of the Monte Carlo method involves statistical distribution rather than use of actual market factors. The following phases of risk analysis by means of the Monte Carlo method can be mentioned:&lt;/p&gt;
+&lt;p&gt;Visibility of the impact of certain factors on the final result is the merit of this method. The demerit of this method is in its single-factor approach since it does not take into consideration that the change of one variable may result in a change of another variable.
+Analysis of breakeven point enables to determine the sales volume when proceeds from sales are the same as the costs. Besides, this method makes it possible to determine the sales volume which enables to obtain the planned amount of profit as well as to analyze the dependence of the gain on change in price and the share of every product in the share of coverage of the total costs.
+The principle of the Monte Carlo method is to build a model which consists of random values. A number of simulations are made to find out how the initial data influence the values dependent on them. The main difference of this method from other factor analysis methods is that simulation by means of the Monte Carlo method involves statistical distribution rather than the use of actual market factors. The following phases of risk analysis by means of the Monte Carlo method can be mentioned:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Interrelation between the input and the output indicators shall be established in the form of equation or inequality.&lt;/li&gt;
 &lt;li&gt;Distribution functions shall be defined for the input parameters of the model.&lt;/li&gt;
@@ -72,10 +338,12 @@
 &lt;li&gt;Distribution function of the model shall be built and risk parameters shall be calculated.&lt;/li&gt;
 &lt;li&gt;Analysis of the obtained results shall be carried out.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;The merits of this method are attributable to great complexity of project solutions, instability and uncertainty of information in implementing of projects. The main difficulty related to use of the Monte Carlo method is to choose adequate distribution for each market factor and assessment of its parameters. Another challenge involves significant consuming of time and technical resources.&lt;/p&gt;
-&lt;p&gt;The factor analysis methods can be used as supplementary methods for assessment of the risk of copying and imitation of brand by competitors and the risk of lack of mechanism of brand monetization. For example, the Monte Carlo method enables to assess the risk of copying and imitation of brand by competitors. To do so, brand manager shall build a model consisting of random values with which a number of computer experiments shall be carried out to find to find out how the initial data influence the values dependent on them. That is, it is required to build a model which reflects dependence of profit on actions of the competitors. However, when using this method, difficulties may rise with respect to choosing of adequate distribution. That is why the expert opinion methods shall be used as the main methods for assessment of risk of this type.&lt;/p&gt;
-&lt;p&gt;The sensitivity analysis method is suitable for assessment of the risk of lack of mechanism of brand monetization. Number of the product users, average cost of purchase, etc. can serve as the varying value in this case. Profit and additional income gained from sale of auxiliary services can be used as the resultant. However, taking into consideration the limitations of using of this method, the scenario analysis methods shall be used as the main methods for assessment of the risk of lack of mechanism of brand monetization.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The above methods of assessment of risks in brand management can help you to choose the optimal set of methods for identifying and assessment of risks in branding.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The merits of this method are attributable to the great complexity of project solutions, instability and uncertainty of information in implementing projects. The main difficulty related to the use of the Monte Carlo method is to choose an adequate distribution for each market factor and assessment of its parameters. Another challenge involves significant consuming of time and technical resources.&lt;/p&gt;
+
+&lt;p&gt;The factor analysis methods can be used as supplementary methods for assessment of the risk of copying and imitation of a brand by competitors and the risk of lack of mechanism of brand monetization. For example, the Monte Carlo method enables to assess the risk of copying and imitation of a brand by competitors. To do so, a brand manager shall build a model consisting of random values with which a number of computer experiments shall be carried out to find out how the initial data influence the values dependent on them. That is, it is required to build a model which reflects the dependence of profit on actions of the competitors. However, when using this method, difficulties may arise with respect to choosing an adequate distribution. That is why the expert opinion methods shall be used as the main methods for assessment of the risk of this type.&lt;/p&gt;
+
+&lt;p&gt;The sensitivity analysis method is suitable for the assessment of the risk of lack of mechanism of brand monetization. A number of product users, average cost of purchase, etc. can serve as the varying value in this case. Profit and additional income gained from the sale of auxiliary services can be used as the resultant. However, taking into consideration the limitations of using this method, the scenario analysis methods shall be used as the main methods for assessment of the risk of lack of mechanism of brand monetization.
+&lt;em&gt;The above methods of assessment of risks in brand management can help you to choose the optimal set of methods for identifying and assessment of risks in branding.&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -84,8 +352,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Thu, 26 May 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/methods-of-risk-assessment-in-branding/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/methods-of-risk-assessment-in-branding/</guid>
+        <link>https://mgroh.eu/blog/brand-management/methods-of-risk-assessment-in-branding/</link>
+        <guid isPermaLink="true">https://mgroh.eu/blog/brand-management/methods-of-risk-assessment-in-branding/</guid>
         
         <category>brand management</category>
         
@@ -96,24 +364,23 @@
         <category>methods</category>
         
         
-        <category>brand management</category>
+        <category>brand-management</category>
         
       </item>
     
       <item>
         <title>Distinction between Anti-Crisis Management and Strategic Management</title>
         <description>&lt;hr /&gt;
+&lt;p&gt;Lately, it can be easily noticed that anti-crisis management not only becomes similar to strategic management but is pretty much identified with it in the context of the majority of articles published on the Internet and in books. From what I can see, it is crucially incorrect.&lt;/p&gt;
 
-&lt;p&gt;Lately it can be easily noticed that anti-crisis management not only becomes similar to strategic management but is pretty much identified with it in the context of the majority of articles published in the Internet and in books. From what I can see it is crucially incorrect.&lt;/p&gt;
-
-&lt;p&gt;The remarkable thing is that anti-crisis management differs from traditional techniques, forms and technologies of management in a number of distinctive features:&lt;/p&gt;
+&lt;p&gt;The remarkable thing is that anti-crisis management differs from traditional techniques, forms and technologies of management in several distinctive features:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;the primary objective of anti-crisis management is to maintain a foothold at the market as well as steady and sound finances of an enterprise in case of any economic, political and social changes in the country;&lt;/li&gt;
 &lt;li&gt;the employed managerial tools can be used only for remedying of temporary financial problems and for solving of other current problems of an enterprise;&lt;/li&gt;
 &lt;li&gt;quick and effective response to significant changes of the environment in reliance on the previously developed alternatives which provide for various transformation in this field, depending on the circumstances that unfold;&lt;/li&gt;
 &lt;li&gt;process of continuous and consistent innovations on all levels and in all business processes of enterprises is at the heart of anti-crisis management;&lt;/li&gt;
-&lt;li&gt;anti-crisis management is designed in such a way that even if an enterprise finds itself in a challenging situation (on the edge of bankruptcy) it is feasible to put in place such management and financial mechanisms which enable any enterprise to overcome difficulties with minimum losses.&lt;/li&gt;
+&lt;li&gt;anti-crisis management is designed in such a way that even if an enterprise finds itself in a challenging situation (on the edge of bankruptcy), it is feasible to put in place such management and financial mechanisms which enable any enterprise to overcome difficulties with minimum losses.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;Anti-crisis management comprises the following phases:&lt;/h4&gt;
@@ -125,27 +392,27 @@
 &lt;li&gt;procedures for anti-crisis management and control of application of such procedures.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;It is easy to notice that there is a certain similarity in phases of the works that are carried out as part of strategic and anti-crisis management. Thus, scanning of internal and external business environment forms the basis of goal setting in strategic management. At the same time, it serves for identification of problems which have resulted in occurrence of crisis. This similarity can be used in order that as early as in the phase of implementation of anti-crisis transformations we could focus on the strategic objectives of further business development.&lt;/p&gt;
+&lt;p&gt;It is easy to notice that there is a certain similarity in phases of the works that are carried out as part of strategic and anti-crisis management. Thus, scanning of the internal and external business environment forms the basis of goal setting in strategic management. At the same time, it serves for the identification of problems which have resulted in the occurrence of a crisis. This similarity can be used in order that as early as in the phase of implementation of anti-crisis transformations, we could focus on the strategic objectives of further business development.&lt;/p&gt;
 
-&lt;p&gt;In view of the above, I can conclude that anti-crisis management is a reasonable application of anti-crisis procedures at the micro-level. Such application is aimed at preventing of possible complications in the course of business activities and at ensuring of steady and profitable economic management of business.&lt;/p&gt;
+&lt;p&gt;Because of the above, I can conclude that anti-crisis management is a reasonable application of anti-crisis procedures at the micro-level. Such application is aimed at preventing possible complications in the course of business activities and at ensuring steady and profitable economic management of the business.&lt;/p&gt;
 
-&lt;p&gt;It should be also noted that anti-crisis management is a category of microeconomics and reflects industrial relations established at the level of economic entity, when applying measures of restructuring (recovery) or liquidation.&lt;/p&gt;
+&lt;p&gt;It should also be noted that anti-crisis management is a category of microeconomics and reflects industrial relations established at the level of an economic entity when applying measures of restructuring (recovery) or liquidation.&lt;/p&gt;
 
-&lt;p&gt;The process of implementation of anti-crisis procedures in respect to activities of corporate debtors is known as anti-crisis process in the publications on economics. The international experience shows that anti-crisis process in the market economy environment is a controlled process which includes two sets of procedures: anti-crisis management and anti-crisis regulation.&lt;/p&gt;
+&lt;p&gt;The process of implementation of anti-crisis procedures with respect to activities of corporate debtors is known as the anti-crisis process in the publications on economics. The international experience shows that the anti-crisis process in the market economy environment is a controlled process which includes two sets of procedures: anti-crisis management and anti-crisis regulation.&lt;/p&gt;
 
-&lt;p&gt;The process of development of market-driven economy in the advanced countries demonstrates that crisis situations occur at all stages of enterprise lifecycle. They are expressed in swing in production, arising of difficulties related to sales of products, overgrowth of tax debt, etc.&lt;/p&gt;
+&lt;p&gt;The process of development of a market-driven economy in the advanced countries demonstrates that crises occur at all stages of enterprise lifecycle. They are expressed in a swing in production, arising of difficulties related to sales of products, overgrowth of tax debt, etc.&lt;/p&gt;
 
-&lt;p&gt;Implementation of the entire set of anti-crisis management procedures commences only at a certain stage of enterprise lifecycle: under the conditions of sharp slowdown in output growth which is characterized by long-lasting inability to pay.&lt;/p&gt;
+&lt;p&gt;Implementation of the entire set of anti-crisis management procedures commences only at a particular stage of enterprise lifecycle: under the conditions of a sharp slowdown in output growth which is characterized by long-lasting inability to pay.&lt;/p&gt;
 
-&lt;p&gt;Anti-crisis management is based both on common patterns inherent to management processes and on specific features related to implementation of anti-crisis procedures. Selection and setting up of objectives are the starting point of any management process, including the process of anti-crisis management. However, system of control and early detection of a forthcoming crisis situation is a specific attribute inherent to the process of anti-crisis management.&lt;/p&gt;
+&lt;p&gt;Anti-crisis management is based both on common patterns inherent to management processes and on specific features related to the implementation of anti-crisis procedures. Selection and setting up of objectives are the starting point of any management process, including the process of anti-crisis management. However, a system of control and early detection of a future crisis is a specific attribute inherent to the process of anti-crisis management.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;All the measures aimed at recovering of business from crisis can be broken down into strategic and tactical.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All the measures aimed at recovering business from a crisis can be broken down into strategic and tactical.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Strategic measures involve analysis and assessment of position of enterprise on the market, identifying of business potential, development of production plans, income policy and innovations and designing of general concept of financial recovery of enterprise.&lt;/p&gt;
+&lt;p&gt;Strategic measures involve analysis and assessment of the position of enterprise on the market, identifying of business potential, development of production plans, income policy and innovations and designing of a general concept of financial recovery of an enterprise.&lt;/p&gt;
 
 &lt;p&gt;Tactical (operational) measures aimed at recovering from crisis include determining of current losses, finding out of internal reserves, involving of experts, changing of personnel, raising of credits, strengthening of discipline, etc. These can be, in their turn, subdivided into protective (curtailing of expenses, shutting down of business units, reduction of staff, cutback in production and decrease in sales) and offensive (active marketing research, high prices for products, tapping of internal reserves, modernization and improvement of management) measures.&lt;/p&gt;
 
-&lt;p&gt;Anti-crisis process involves imposing of survival proceedings or liquidation procedures on corporate debtor. This process starts with assessment of its financial standing and economic status. If diagnostics of the reasons of insolvency is not carried out, inappropriate anti-crisis procedures can be imposed. This can result in liquidation of quite potentially productive enterprises, reorganization of insolvent enterprises and to escalation of conflict between interests of debtors and creditors.&lt;/p&gt;
+&lt;p&gt;The anti-crisis process involves imposing of survival proceedings or liquidation procedures on the corporate debtor. This process starts with an assessment of its financial standing and economic status. If diagnostics of the reasons of insolvency is not carried out, inappropriate anti-crisis procedures can be imposed. This can result in a liquidation of quite potentially productive enterprises, reorganization of insolvent enterprises and to an escalation of conflict between interests of debtors and creditors.&lt;/p&gt;
 
 &lt;h4&gt;The main phases of anti-crisis management in terms of tactics are as follows:&lt;/h4&gt;
 &lt;ul&gt;
@@ -157,7 +424,7 @@
 &lt;li&gt;selection and implementation of anti-crisis procedures.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;As for anti-crisis regulation, it implies impact on corporate debtor at the macro-level. Anti-crisis regulation includes measures for organizational and economic impact and regulatory impact on the part of the state aimed at protecting of enterprises from crisis situations, preventing of bankruptcy or liquidation in case of inefficiency of its further operating.&lt;/p&gt;
+&lt;p&gt;As for anti-crisis regulation, it implies an impact on the corporate debtor at the macro-level. Anti-crisis management includes measures for organizational and economic implications and regulatory effects on the part of the state aimed at protecting of enterprises from crises, preventing of bankruptcy or liquidation in case of inefficiency of its further operating.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -166,8 +433,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 02 May 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/anti-crisis-management-distinction-anti-crisis-management-strategic-management/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/anti-crisis-management-distinction-anti-crisis-management-strategic-management/</guid>
+        <link>https://mgroh.eu/blog/anti-crisis-management/distinction-anti-crisis-management-strategic-management/</link>
+        <guid isPermaLink="true">https://mgroh.eu/blog/anti-crisis-management/distinction-anti-crisis-management-strategic-management/</guid>
         
         <category>strategic management</category>
         
@@ -176,7 +443,7 @@
         <category>analysis</category>
         
         
-        <category>Crisis management</category>
+        <category>anti-crisis-management</category>
         
       </item>
     
