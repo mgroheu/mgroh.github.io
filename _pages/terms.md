@@ -10,7 +10,7 @@ comments: false
 <h3>Terms of use</h3>
 <p>Please read the following Terms of Use relating to your use of the "{{ site.name }}". By using the "{{ site.name }}" (other than to read this page for the first time), you agree to comply with all of the Terms of Use set forth herein. The right to use the Web Site is personal to you and is not transferable to any other person or entity.</p>
 
-<p style="color:red; font-weight: bold;">BY ACCESSING AND USING THE "{{ site.name }}", YOU EXPRESSLY AGREE TO THESE TERMS OF USE. IF YOU DO NOT AGREE TO ABIDE BY THESE TERMS, DO NOT ACCESS OR USE THE SITE.</p>
+<p style="color:red; font-weight: bold;">BY ACCESSING AND USING THE "{{ site.name }}", YOU EXPRESSLY AGREE TO THESE TERMS OF USE. IF YOU DO NOT AGREE TO ABIDE BY THESE TERMS, DO NOT ACCESS OR USE THE WEBSITE "{{ site.name }}" ({{ site.url }}).</p>
 
 <h3>Owners and collectors of information</h3>
 <p>These Terms of Use apply to your use of all of the Sites and services owned, hosted, or operated by Maximilian Groh (collectively "we," "us," or "our"), including the following:</p>
