@@ -88,7 +88,7 @@ Max is a gifted leader who draws his strength and effectiveness from excellent c
 
 <p>Thank you for your support! Your donation helps me to maintain this project.</p>
 
-<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url" class="btn btn-danger">Buy me a coffee</a>
+<a class="btn btn-danger btn-sm rounded trackdonate" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url"><span class="fa fa-coffee"></span> Buy me a coffee</a>
 <p></p>
 <p></p>
 <h5>Contact me</h5>
