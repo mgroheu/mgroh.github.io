@@ -84,15 +84,15 @@ Max is a gifted leader who draws his strength and effectiveness from excellent c
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain this project.</p>
-
 <a class="btn btn-danger btn-sm rounded trackdonate" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url"><span class="fa fa-coffee"></span> Buy me a coffee</a>
+
+<p>If you like this project, you can buy me a coffee. Thank you for your support!</p>
+
+
 <p></p>
 <p></p>
 <h5>Contact me</h5>
-<p>If you have any questions, comments, or ideas you wish to share, please feel free to <A HREF="#" onclick="d='mgroh.eu'; u='contact'; prompt('Copy address to clipboard',u+'@'+d); return false" title="Click here to send me email"> send me email</A>, and I will do my best to respond as quickly as possible. Include your phone number if you want a call.</p>
+<p>Do you have any questions, comments, or ideas? Please feel free to <a href="#" onclick="d='mgroh.eu'; u='contact'; prompt('Copy address to clipboard',u+'@'+d); return false" title="Click here to send me email"> send me an email</a>, and I will do my best to respond as quickly as possible. Include your phone number if you want a call.</p>
 
 </div>
 </div>
