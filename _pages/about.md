@@ -40,8 +40,9 @@ From 2016 to 2020 I researched on e-commerce strategies & category management & 
 
 <p><strong>Author:</strong></p>
 <ol>
-<li><a href="{{ site.baseurl }}/book/">Being Strategic: Strategies-specific Project Management In Times Of Crisis, ISBN-13: 978-1530885657 </a></li>
+<li><a href="{{ site.baseurl }}/book/">Being Strategic: Strategies-specific Project Management In Times Of Crisis, <strong>ISBN-13: </strong>1978-1530885657 </a></li>
 <li><a href="http://thescipub.com/pdf/10.3844/ajebasp.2014.49.57">Strategic Management In Times of Crisis, <strong>DOI: </strong>10.3844/ajebasp.2014.49.57</a></li>
+<li><a href="https://www.springer.com/gp/book/9783030391645">Groh, M. and Simões, C. (2020). “Comparing Product Policy’s Effectiveness for E-commerce Companies”. Proceedings of the 2019 Academy of Marketing Science (AMS) Annual Conference.  <strong>DOI: </strong>110.1007/978-3-030-39165-2</a></li>
 </ol>
 
 <p><strong>Certifications:</strong></p>
