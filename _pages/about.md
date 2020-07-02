@@ -40,8 +40,9 @@ From 2016 to 2020 I researched on e-commerce strategies & category management & 
 
 <p><strong>Author:</strong></p>
 <ol>
-<li><a href="{{ site.baseurl }}/book/">Being Strategic: Strategies-specific Project Management In Times Of Crisis, ISBN-13: 978-1530885657 </a></li>
+<li><a href="{{ site.baseurl }}/book/">Being Strategic: Strategies-specific Project Management In Times Of Crisis, <strong>ISBN-13:</strong> 978-1530885657 </a></li>
 <li><a href="http://thescipub.com/pdf/10.3844/ajebasp.2014.49.57">Strategic Management In Times of Crisis, <strong>DOI: </strong>10.3844/ajebasp.2014.49.57</a></li>
+<li><a href="https://www.springer.com/gp/book/9783030391645">Groh, M. and Simões, C. (2020). “Comparing Product Policy’s Effectiveness for E-commerce Companies”. Proceedings of the 2019 Academy of Marketing Science (AMS) Annual Conference.  <strong>DOI: </strong>10.1007/978-3-030-39165-2</a></li>
 </ol>
 
 <p><strong>Certifications:</strong></p>
@@ -84,14 +85,12 @@ Max is a gifted leader who draws his strength and effectiveness from excellent c
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain this project.</p>
-
-<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url" class="btn btn-danger">Buy me a coffee</a>
+<a class="btn btn-danger btn-sm rounded trackdonate" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url" title="Click here to buy me a coffee"><span class="fa fa-coffee"></span> Buy me a coffee</a>
 <p></p>
-<h5>How to contact me</h5>
-<p>If you have any questions you are welcome to <A HREF="#" onclick="d='mgroh.eu'; u='contact'; prompt('Copy address to clipboard',u+'@'+d); return false"> send me email</A>.</p>
+<p>If you like this project you can buy me a coffee. Thank you for your support!</p>
+
+<h5>Contact me</h5>
+<p>Do you have any questions, comments or ideas? Please feel free to <a href="#" onclick="d='mgroh.eu'; u='contact'; prompt('Copy address to clipboard',u+'@'+d); return false" title="Click here to send me email"> send me an email</a>, and I will do my best to respond as quickly as possible. Include your phone number if you want a call.</p>
 
 </div>
 </div>

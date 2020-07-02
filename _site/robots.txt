@@ -1,1 +1,1 @@
-Sitemap: {{ "sitemap.xml" | absolute_url }}
+Sitemap: http://mgroh.eu/sitemap.xml

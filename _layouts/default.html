@@ -28,9 +28,15 @@
 {% endif %}
      
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">    
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+
+<!-- Bootstrap Modified -->
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Theme Stylesheet -->
+<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+
+<!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </head>
 
@@ -40,10 +46,12 @@
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i">
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	</noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i">
 
+        <!-- Font Awesome Icons -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    </noscript>
+    
 
 <!-- Begin Menu Navigation
 ================================================== -->
@@ -123,17 +131,13 @@
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
 ================================================== -->
+
 <div class="alertbar">
 	<div class="container text-center">
-		<span><img class="lozad" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" height="40" width="30"> &nbsp; Never miss a <b>story</b> from me, subscribe to my newsletter</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group">
-            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-	</div>
+		<span><img class="lozad" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" height="40" width="30"> &nbsp; Never miss a <b>story</b> from me <i class="fa fa-arrow-right"></i> follow me on <a target="_blank" href="{{ site.authors.mg.linkedin }}" class="btn followl" title="Follow me on Linkedin"><i class="fab fa-linkedin-in"></i></a> or <a target="_blank" href="{{ site.authors.mg.twitter }}" class="btn followt" title="Follow me on Twitter"><i class="fab fa-twitter"></i></a></span>
+    </div>
 </div>
+
 {% endif %}
     
 </div>
@@ -168,9 +172,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                        Copyright © {{ site.time | date: "%Y" }} Maximilian Groh
+                        Copyright © {{ site.time | date: "%Y" }} Dr. Maximilian Groh
                         <br/>
-                        <a rel="privacy" href="{{ site.baseurl }}/privacy-policy">PRIVACY POLICY</a> · <a rel="terms" href="{{ site.baseurl }}/terms">TERMS OF USE</a>
+                        <a rel="privacy" href="{{ site.baseurl }}/privacy-policy">privacy policy</a> · <a rel="terms" href="{{ site.baseurl }}/terms">terms of use</a>
                     </div>
                     <div class="col-md-6 col-sm-6 text-center text-lg-right">
                         <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> with <a href="https://deepu.tech/" rel="noopener noreferrer nofollow" target="_blank" title="Deepu.tech">
@@ -188,14 +192,15 @@
 <!-- Scripts
 ================================================== -->
 
-<script src="https://unpkg.com/@popperjs/core@2.1.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js" crossorigin="anonymous"></script>
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 <script async src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
 {% if site.lazyimages == "enabled" %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.14.0/lozad.min.js" integrity="sha256-hstwhDmGVwZjIwt6SlTG6sQBREWrWTBjVTik/JLlb1Y=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js" crossorigin="anonymous"></script>
+<!-- Scripts <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.14.0/lozad.min.js" integrity="sha256-hstwhDmGVwZjIwt6SlTG6sQBREWrWTBjVTik/JLlb1Y=" crossorigin="anonymous"></script> -->
     <script>
         // lazy loads images
         const lazyloadObserver = lozad()

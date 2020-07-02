@@ -3,11 +3,11 @@
   <channel>
     <title>Maximilian Groh - digital and strategy geek with PhD</title>
     <description>Blogging about the digital economy, brand and strategic management.</description>
-    <link>http://mgroh.eu/</link>
-    <atom:link href="http://mgroh.eu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 13:46:12 +0200</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 13:46:12 +0200</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Jul 2020 13:36:02 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2020 13:36:02 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>Coaching Technologies in Enhancing of Emotional Quotient of Manager</title>
@@ -84,8 +84,8 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://mgroh.eu/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
+        <link>http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
         
         <category>leadership</category>
         
@@ -132,8 +132,8 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 14 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://mgroh.eu/blog/leadership/what-is-leadership-coaching/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/leadership/what-is-leadership-coaching/</guid>
+        <link>http://localhost:4000/blog/leadership/what-is-leadership-coaching/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/leadership/what-is-leadership-coaching/</guid>
         
         <category>leadership</category>
         
@@ -243,8 +243,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;hr /&gt;
 </description>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/leadership/improvement-emotional-intelligence-managers/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/leadership/improvement-emotional-intelligence-managers/</guid>
+        <link>http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</guid>
         
         <category>leadership</category>
         
@@ -295,8 +295,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
+        <link>http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
         
         <category>marketing management</category>
         
@@ -331,8 +331,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;hr /&gt;
 </description>
         <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/leadership/leadership-people-system-self/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/leadership/leadership-people-system-self/</guid>
+        <link>http://localhost:4000/blog/leadership/leadership-people-system-self/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/leadership/leadership-people-system-self/</guid>
         
         <category>leadership</category>
         
@@ -372,8 +372,8 @@ Nevertheless, in Australia, patents and business sponsored R&amp;amp;D continued
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/leadership/essence-human-capital-impact-technological-progress/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
+        <link>http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
         
         <category>leadership</category>
         
@@ -421,8 +421,8 @@ Superfluousness as a factor preconditioning buying decision of luxury goods “s
 &lt;hr /&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://mgroh.eu/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
+        <link>http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
         
         <category>luxury</category>
         
@@ -487,8 +487,8 @@ Management systems of the third type will be characterized by building up of a n
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 11 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
+        <link>http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
         
         <category>strategic management</category>
         
@@ -629,8 +629,8 @@ The said instruments and methods of brand protection are primarily based not onl
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/brand-management/methods-brand-protection/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/brand-management/methods-brand-protection/</guid>
+        <link>http://localhost:4000/blog/brand-management/methods-brand-protection/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/brand-management/methods-brand-protection/</guid>
         
         <category>brand management</category>
         
@@ -724,8 +724,8 @@ On the other hand, long-term objectives of enterprise development cease to be a 
 &lt;hr /&gt;
 </description>
         <pubDate>Sun, 21 Aug 2016 00:00:00 +0200</pubDate>
-        <link>http://mgroh.eu/blog/strategic-management/strategic-anti-crisis-management-relevancy/</link>
-        <guid isPermaLink="true">http://mgroh.eu/blog/strategic-management/strategic-anti-crisis-management-relevancy/</guid>
+        <link>http://localhost:4000/blog/strategic-management/strategic-anti-crisis-management-relevancy/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/strategic-management/strategic-anti-crisis-management-relevancy/</guid>
         
         <category>strategic management</category>
         
