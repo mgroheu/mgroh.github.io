@@ -210,7 +210,7 @@ pre.lineno { color: #9999; }
 
 .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover { color: #5a5a5a; background-color: #eee; border-color: #ddd; }
 
-.pagination > .active > a { color: white; background-color: #00ab6b !important; border: solid 1px #00ab6b !important; }
+.pagination > .active > a { color: white; background-color: #00ab6b !important; border: solid 1px #00ab6b !important; z-index: 0 !important; /* avoid overlapping */ }
 
 .pagination > .active > a:hover { background-color: #00ab6b !important; border: solid 1px #00ab6b; }
 

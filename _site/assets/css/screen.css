@@ -403,6 +403,7 @@ blockquote {
 
     .alertbar {
         position: relative !Important;
+        z-index: 10 !important; /* avoid overlapping */ 
         margin-bottom: 20px;
         margin-top: 20px;
         box-shadow: none !Important;

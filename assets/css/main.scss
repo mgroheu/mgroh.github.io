@@ -19,7 +19,7 @@ $paginateColor: #00ab6b;
 .pagination > li > a
 {
     background-color: white;
-    color: $paginateColor;
+    color: $paginateColor;    
 }
 
 .pagination > li > a:focus,
@@ -29,7 +29,7 @@ $paginateColor: #00ab6b;
 {
     color: #5a5a5a;
     background-color: #eee;
-    border-color: #ddd;
+    border-color: #ddd;    
 }
 
 .pagination > .active > a
@@ -37,13 +37,15 @@ $paginateColor: #00ab6b;
     color: white;
     background-color: $paginateColor !important;
     border: solid 1px $paginateColor !important;
+    z-index: 0 !important;   /* avoid overlapping */ 
 }
 
 .pagination > .active > a:hover
 {
     background-color: $paginateColor !important;
-    border: solid 1px $paginateColor;
+    border: solid 1px $paginateColor;     
 }
+
 /* pagination end */
 
 .about-social a {
