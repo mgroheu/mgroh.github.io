@@ -928,3 +928,18 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.book {
+    padding: 40px 0px 40px;
+    max-width: 100%;
+}
+
+.book__image {
+        width: 35%; !important; 
+        margin: 30px 30px 30px 0;
+        float: left;
+}
+
+.book__text {
+        display: inline; !important; 
+}

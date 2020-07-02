@@ -1,9 +1,10 @@
 # Site
 name: "Maximilian Groh - digital and strategy geek with PhD"
 title: "Maximilian Groh - digital and strategy geek with PhD"
-description: "Blogging about the digital economy, brand and strategic management."
+description: "Blogging about the digital economy, brand and strategic management"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo_sm: 'assets/images/logo_sm.png'
+favicon: 'assets/images/logo.ico'
 # baseurl: ''
 #url: 
 google_analytics: 'UA-38797527-3'
@@ -15,8 +16,8 @@ permalink: /blog/:categories/:title/
 # Authors
 authors:
   mg:
-    name: Maximilian Groh
-    display_name: Dr Maximilian Groh
+    name: Dr. Maximilian Groh
+    display_name: Dr. Maximilian Groh
     gravatar:
     avatar: 'assets/images/avatar.png'
     email: contact@mgroh.eu
