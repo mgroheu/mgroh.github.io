@@ -48,7 +48,7 @@ comments: false
 <p>We will immediately remove the respective link if we become aware of a legal violation.</p>
 
 <h3>Privacy policy</h3>
-<p>Please refer to the separate menu item <a title="Privacy Policy" href="{{ site.baseurl }}/privacy-policy/">Privacy policy.</a></p>
+<p>Please refer to the separate menu item <a title="Privacy Policy" href="{{ site.baseurl }}/privacy-policy">Privacy policy.</a></p>
 <h3>Governed by and construed in accordance with the laws of Germany</h3>
 <p>These terms will be governed by and construed in accordance with the laws of Germany (Munich), without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to these terms will be subject to mediation in Germany (Munich).</p>
 
