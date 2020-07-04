@@ -14,25 +14,28 @@ comments: false
 
 <p><em>Trilingual Business Leader (German, Russian, English) with 15+ years’ demonstrated success increasing market share and earnings, reducing costs, and improving client satisfaction in Europe, Russia, Middle East &amp; Africa.</em></p>
 
-<p>My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality.</p>
+<p>My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality. To this end, I myself have experienced and worked in just about every aspect of the business world there is. Beginning with my tenure as a sales manager in the consumer industry, I came to understand all facets of the company, from finances, to budget planning, to recruiting on the human resource end of things; I learned the true value of being flexible.</p>
 
-<p>To this end, I myself have experienced and worked in just about every aspect of the business world there is. Beginning with my tenure as a sales manager in the consumer industry, I came to understand all facets of the company, from finances, to budget planning, to recruiting on the human resource end of things; I learned the true value of being flexible.</p>
-
-<p>I’ve spent a great deal of time internationally in sales, account management as well as advertising and marketing. However, the one area with which I have extensive experience and thus, within which I am deeply invested, is the role of the business leader. Having worked as a director for both retail and e-commerce companies, I came to familiarize myself with the structures that were vital to a business’s livelihood. The thing about these structures however is that they are ever changing. The old adage about the only constant being change, particularly rings true in the corporate world. Problem solving, negotiating, realigning, researching and innovating are at the core of management’s role. I learned this time and time again. I strive to impart this wisdom to every company and executive with whom I consult.</p>
+<p>I’ve spent a great deal of time internationally in sales, marketing management as well as procurement / category management. However, the one area with which I have extensive experience and thus, within which I am deeply invested, is the role of the business leader. Having worked as a director for both retail and e-commerce companies, I came to familiarize myself with the structures that were vital to a business’s livelihood. The thing about these structures however is that they are ever changing. The old adage about the only constant being change, particularly rings true in the corporate world. Problem solving, negotiating, realigning, researching and innovating are at the core of management’s role. I learned this time and time again. I strive to impart this wisdom to every company and executive with whom I consult.</p>
 
 <p>
 From 2016 to 2020 I researched on e-commerce strategies, category management, marketing and wrote a PhD dissertation. Research study addresses the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identifies the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors that reduce their transaction costs. 
 </p>
 
 <p><strong>Industry specialisation:</strong></p>
-<p>- Consumer goods (FMCG, Non-FMCG)<br/>- Luxury goods<br/>- E-commerce<br/>- Automotive</p>
+<p>
+- Consumer goods (FMCG, Non-FMCG)<br/>
+- Luxury goods<br/>
+- E-commerce<br/>
+- Automotive
+</p>
 
 <p><strong>Professional specialisation:</strong></p>
-<p>- Executive Leadership<br />
-- General Management<br />
-- Procurement Management<br />
-- Category Management<br />
+<p>
 - Empowering Employees<br />
+- Executive Leadership<br />
+- General Management<br />
+- Procurement & Category Management<br />
 - Luxury &amp; Premium Goods Brand Management<br />
 - Retail roll out<br />
 - Conversion from Wholesale to Retail<br />
@@ -52,7 +55,7 @@ From 2016 to 2020 I researched on e-commerce strategies, category management, ma
 <p><strong>Certifications:</strong></p>
 <ul>
 <li><strong>Lean Six Sigma Black Belt</strong>,  TÜV, <em>License Number: DE-A1146</em></li>
-<li><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></li>
+<li><a href="https://www.youracclaim.com/badges/44ac1d88-3b09-40e8-b2ea-47eb46d712c3"><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></a></li>
 </ul>
 
 <hr>
