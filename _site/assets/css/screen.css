@@ -929,6 +929,7 @@ iframe {
     transition: opacity .25s;
 }
 
+/** Configuration for Book and About **/
 .book {
     padding: 0px 0px 40px;
     max-width: 100%;
