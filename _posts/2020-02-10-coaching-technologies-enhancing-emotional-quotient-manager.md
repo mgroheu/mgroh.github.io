@@ -79,9 +79,3 @@ The coach never insists on any alternative solution or advice. If the trainee do
  
 **To summarize, it can be stated with certainty that:**
 In terms of tactics, coaching technologies vary from educational sessions and seminars to auto-trainings and consulting. Gaining the achievements of the technologies of behavioural therapy, training and tutorship, coaching enables to perceive the philosophy of personal development with reliance on changing of attitudes of the leadership management nonviolently — from problem-focused interaction to dealing with the potentials and resources.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

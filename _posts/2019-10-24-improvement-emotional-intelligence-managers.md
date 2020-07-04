@@ -103,9 +103,3 @@ Performance indicators of improvement of emotional intelligence can be defined i
 </ul>
 
 Including of emotional intelligence in training programs or in enhancing the training of managers enables to identify the critical dominants in the professional development of personnel as well as to ensure the effectiveness of creating of drivers of management activity or improvement thereof.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

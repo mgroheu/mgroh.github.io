@@ -41,9 +41,3 @@ A common reason making customers consider buying luxury goods is to realize one�
 Superfluousness as a factor preconditioning buying decision of luxury goods “symbolizes the involvement possessing these brands expect concerning unique results rather that make use of the brands”.
 
 It is thus evident that despite economic turmoil, the luxury industry continues its growth and development. It is attributed to the fact that the buying decision of luxury goods is preconditioned not only by economic, but also psychological factors. It can be concluded that the reasons for which customers choose to buy luxury products do not differ substantially from country to country. Customers consider buying luxury goods because the process is associated with a wide range of experiences, including perceived reliability, opportunity to classify oneself to a particular group of people, and unique aesthetic satisfaction. Although the perception of these and other discussed factors may change over time, the knowledge of them is fundamental. It provides insights into how the luxury industry resists economic turmoil and secures sustainability.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

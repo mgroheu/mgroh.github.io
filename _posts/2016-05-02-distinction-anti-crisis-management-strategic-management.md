@@ -71,9 +71,3 @@ The anti-crisis process involves imposing of survival proceedings or liquidation
 </ul>
 
 As for anti-crisis regulation, it implies an impact on the corporate debtor at the macro-level. Anti-crisis management includes measures for organizational and economic implications and regulatory effects on the part of the state aimed at protecting of enterprises from crises, preventing of bankruptcy or liquidation in case of inefficiency of its further operating.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

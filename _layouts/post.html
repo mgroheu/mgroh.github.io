@@ -124,15 +124,16 @@ post_class: post-template
     
 			<!-- Begin Cite
 ================================================== -->
-			{% if page.cite %}
-			{% include cite.html %}
-			{% endif %}
+			<!-- {% if page.cite %}-->
+			<!-- {% include cite.html %}-->
+			<!-- {% endif %}-->
 			<!--End Cite
 ================================================== -->
 
 			<!-- Begin Image Credits
 ================================================== -->
-			  <div class="after-post-cats">
+			  <div class="after-post-cats border-top">
+                <div class="clearfix"><br></div>
                 <ul class="tags mb-4">
                   <small><b>Image credits:</b></small> 
                     <li>
@@ -168,17 +169,7 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
-
-            <!-- Prev/Next -->
-            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{ site.baseurl }}{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo; </a>
-            {% endif %}
-            <div class="clearfix"></div>
-            </div>
+           
             <!-- End Categories -->
 
         </div>
@@ -191,62 +182,7 @@ post_class: post-template
 
 <!-- Related post
 ================================================== -->
-{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:2 %}
-    
-  <div class="clearfix"><br></div>
-    <div class="container">
-       <div class="row justify-content-center" >
-        <div class="col-md-8" >
-         
-            <div >
-                <h4 class="section-title"><span>Related post</span></h4>
-            </div>
-           
-            <div class="row display-flex">
-                {% for post in posts %}
-                <div class="col-md-6 mb-30px">
-                    <div class="listfeaturedtag h-auto">
-                        <div class="row h-100">
-                            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-                                <div class="h-100">
-                                    <div class="wrapthumbnail">
-                                        <a href="{{ site.baseurl }}{{ post.url }}">
-                                            {% if site.lazyimages == "enabled" %}
-                                            <img class="featured-box-img-cover lozad" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
-                                            {% else %}
-                                            <img class="featured-box-img-cover" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
-                                            {% endif %}
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-12 col-lg-7">
-                                <div class="h-50 card-group">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <h6 class="card-title">
-                                                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                                                {% if post.rating %}
-                                                <div class="mb-2 mt-2 font-weight-normal">
-                                                    {% include star_rating_postbox.html %}
-                                                </div>
-                                                {% endif %}
-                                            </h6>
-                                            <p class="card-text, overflow: hidden;"><small class="text-muted">{{ post.excerpt | strip_html | truncatewords:10 }}</small></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-                
-        </div>
-    </div>
-  </div>
-
+{% include related.html %}
 <!-- End Related post
 ================================================== -->
 

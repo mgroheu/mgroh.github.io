@@ -71,9 +71,3 @@ Several intermediate alternatives exist in between the extreme forms of changes,
 Successful use of one or another method depends heavily on the measures taken with respect to human resource management. Besides taking of measures aimed at retaining employees, differentiated concepts of staff reduction shall not be ignored. Managers of reengineering programs shall solve employment issues without inflicting of moral harm on the dismissed persons and doing their best to ensure the employment of such persons on the labour market.
 
 **The objective of change management is to achieve and fulfill the potential of personnel for improving of competitiveness of an enterprise rather than to downsize it.**
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

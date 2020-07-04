@@ -43,8 +43,3 @@ The following components of professional training of a specialist are the main a
 
 Appraisal of the results is an essential element of control of success of the trainee exercised by the coach.
 
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

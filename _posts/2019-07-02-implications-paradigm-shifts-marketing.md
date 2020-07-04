@@ -44,9 +44,3 @@ In the end, the entire process of marketing management has become both customer-
 ### Conclusion
 
 In the past 30 years, a paradigm shift has occurred in marketing away from a focus on the exchange to a focus on creating relationships with consumers. This paradigm shift for marketing executives implies that marketing management has become more about relationship building than about the purchase of a good or service. Marketing executives must oversee the relationship management of the products and companies for which they are responsible. They must manage marketing processes in such a way as to make the consumer the focus of their efforts. The marketing executives that are unwilling to make the consumer the focus of the marketing process will likely find that it is difficult to attract consumers to their brands, and may even harm the long-term reputations of their companies.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

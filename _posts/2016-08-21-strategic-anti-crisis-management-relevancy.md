@@ -55,9 +55,3 @@ Lack of conditions required for effective integration in the market system has p
 Since under the current conditions enterprises can far from always earn the required funds by themselves and owners of funds available for investment consider investments in industrial production to be quite risky and unprofitable, the circle of problems is closed. Hence, one has to witness with increasing frequency of how enterprises become insolvent and subsequently bankrupt. That is why it is so relevant under the current conditions to find and implement such form and methods of management which could enable to recover businesses from the critical condition and, in case of bankruptcy, to prepare and implement turnaround programs.
 
 Of course, the point at issue is not that enterprises shall completely abandon the strategic management in the new environment. Since only if proven strategies are available, enterprises can address the challenge of survival and development in future, build up a system of interconnected and consistent marketing, financial, research and development plans as well as create effective mechanisms for the achievement of their objectives. However, the management system shall be improved on a step-by-step basis.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

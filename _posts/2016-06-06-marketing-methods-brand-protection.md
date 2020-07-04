@@ -100,9 +100,3 @@ In my opinion, the following can be pertained to the most common mistakes of pos
 
 In general, marketing methods of brand protection employed on all phases of its lifecycle perform different tasks, achieving ultimately of the shared objective. Brand extensions can contribute to its entering into new markets, redistribution of financial risks and to the cutting of costs for the launching of new products.
 In the 21 century, against the background of unfair competition, financial instability and deceptive advertising, crisis management communications become one of the most critical methods of brand protection serving as the techniques of rapid information response to emerging challenges.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

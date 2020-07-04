@@ -38,8 +38,3 @@ The effect of global novelty is not likely to be instantaneous, since for innova
 
 It is nevertheless argued that prospects lack for enhancing the pace which the global front line moves in the way that previous industrial renaissance has. However, the truth is that some of the probable explanations for synchronized economy productivity output turn downs consist a plummeting pace of innovation, the vanishing effect of breakthroughs in ICT and the disappearing effect of previous economic reforms and perhaps shifting production sectors.
 
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

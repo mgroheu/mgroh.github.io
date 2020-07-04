@@ -134,9 +134,3 @@ The following priority points of contact can be distinguished analysis and contr
 
 Balanced use of human and brand resources should be brought into focus, thus ensuring the internal activity when implementing the measures of brand protection.
 The said instruments and methods of brand protection are primarily based not only on the long-term planning of brand development and designing of brand strategy but also on exercising of constant control of brand profitability, contact of the brand with consumers, monitoring and optimization of brand portfolio and closer attention when carrying out of company reorganization. As can be seen from the above, constant monitoring of brand development and performance as well as carrying out of the procedure for brand audit are among the conditions of brand protection.
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

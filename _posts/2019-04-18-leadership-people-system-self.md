@@ -31,8 +31,3 @@ After learning through experience, there are things that I have done differently
 
 In dealing with employees in a different culture, I would take a different approach than the one I took. I would first seek to learn and familiarize myself with the local culture before I can make any management decision. This can be achieved through the involvement of the employees who work in the different cultures who would act as a guide to making decisions that are compliant to the local culture. This would ensure that all the decisions that are made are acceptable in the local culture.
 
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----

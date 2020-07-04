@@ -97,9 +97,3 @@ The factor analysis methods can be used as supplementary methods for assessment 
 
 The sensitivity analysis method is suitable for the assessment of the risk of lack of mechanism of brand monetization. A number of product users, average cost of purchase, etc. can serve as the varying value in this case. Profit and additional income gained from the sale of auxiliary services can be used as the resultant. However, taking into consideration the limitations of using this method, the scenario analysis methods shall be used as the main methods for assessment of the risk of lack of mechanism of brand monetization.
 <em>The above methods of assessment of risks in brand management can help you to choose the optimal set of methods for identifying and assessment of risks in branding.</em>
-
----
-
-<small>Please follow me on [Twitter](https://twitter.com/mgroh_eu) and [Linkedin](https://www.linkedin.com/in/maxgroh/) for updates and let me know if something can be improved in this article. If you like this article, please leave a like or a comment. Thank you for your support.
-
----
