@@ -943,3 +943,22 @@ iframe {
 .book__text {
         display: inline; !important; 
 }
+
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+
+  .row.display-flex {
+    display: flex; 
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+  .row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+    
+  }
+
