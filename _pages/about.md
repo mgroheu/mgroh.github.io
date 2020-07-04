@@ -8,6 +8,10 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<div class="book">
+    <img src="{{ site.baseurl }}/assets/images/about_me.jpg" class="book__image" alt="Maximilian Groh">
+    <div class="book__text">
+
 <p><em>Trilingual Business Leader (German, Russian, English) with 15+ years’ demonstrated success increasing market share and earnings, reducing costs, and improving client satisfaction in Europe, Russia, Middle East &amp; Africa.</em></p>
 
 <p>My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality.</p>
@@ -80,6 +84,8 @@ I know Max through our time together at Apple. From the moment I met him, I was 
 Max is a gifted leader who draws his strength and effectiveness from excellent communication skills in different languages and an aura of unquestioned integrity. Whether interacting one-on-one or in front of a large group, and no matter the audience, Max projects a sense of excitement, inclusion and straight talk that inspires his people to rise to the occasion time and again without fail. He leads by example and is a model for leaders that practice Servant Leadership. He is inspiring, intelligent, humorous, grounded and able to focus on the big picture in times of uncertainty. Max is one of the most outstanding leaders I have ever worked with. Max is also skilled at mobilizing his team to identify and take ownership of significant objectives that will drive the business forward, producing a results-driven environment of entrepreneurship and accountability. During the time I worked directly with Max I saw him take immediate control of one of the most challenging retail markets in München. Max is very passionate about his work and quickly gains respect at all levels. He made a point to take the time to make personal connections. I feel privileged to have had the opportunity to learn from him.
 </blockquote> 
 
+</div>
+</div>
 </div>
 
 <div class="col-md-4">
