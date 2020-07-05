@@ -35,7 +35,7 @@ Now the Internet allows accelerating rates of development both established and n
 According to the results of research conducted by IDC, out of 11 thousand heads of enterprises all over the world, almost 40% consider participation in the electronic market to be essential for their company. Thus in fast-developing countries of South East Asia, the USA and others, this share reaches 50-60 %.
 
 The attractiveness of e-commerce is related to the following factors:
-- The Internet is becoming the norm of business life everywhere;
+- the Internet is becoming the norm of business life everywhere;
 - space and time factors are becoming irrelevant, and commercial activities are spreading around the world;
 - transactional (from lat. transactio - making, catch-up, agreement between buyer and seller) costs decrease;
 - the conditions of interaction are the same for all enterprises.
@@ -45,7 +45,7 @@ Internet technologies also influence the market structure; signs of it are shown
 - increased competition due to the appearance on the market of companies operating only in the network;
 - low entry barriers to e-commerce;
 - network buyers are more demanding because they can compare prices among competing companies in a short period;
-- The Internet allows to choose suppliers in any country of the world and to establish close mutually advantageous cooperation with it;
+- the Internet allows to choose suppliers in any country of the world and to establish close mutually advantageous cooperation with it;
 - electronic technologies require an increase in the pace of the company's work;
 - electronic technologies open new possibilities for reconstruction of a branch chain of values;
 - The Internet is a relatively cheap channel for consumers;
@@ -62,11 +62,12 @@ It is necessary to take into account the fact that e-commerce systems significan
 - automated warehousing;
 - system for delivery of goods and rendering of services;
 - system of taxation and customs tariffs;
-marketing service, which includes departments of advertising, sales, pricing, web-page design.
+- marketing service, which includes departments of advertising, sales, pricing, web-page design.
 
 When choosing an online store, the assortment of goods, their availability in stock and delivery speed are crucial for an interactive buyer. Thus, a clear idea of the infrastructure of e-commerce company will allow in a reasonable time to design and economically substantiate the structure of the e-commerce trade, reduce labour costs and time to create an effective e-commerce company.
 
 Well, the theory is more or less clear, but what tasks should be set at benchmarking? Among the tasks of benchmarking research used to study competitors, the following areas should be noted:
+
 - researching and analysing the dynamics of competitors' market positions in Internet search engines in all segments of the target market;
 - analysis of traffic to competitors' websites;
 - collection of information about competitors' goods and services, their quality and purpose;
