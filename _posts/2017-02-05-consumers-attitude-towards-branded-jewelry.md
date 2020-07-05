@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: true
+featured: false
 toc: false
 cite: true
 title: Consumers’ Attitude towards Branded Jewellery

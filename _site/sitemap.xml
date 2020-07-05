@@ -57,6 +57,10 @@
 <lastmod>2020-02-10T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies/</loc>
+<lastmod>2020-07-05T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -100,6 +104,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/marketing-management/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/e-commerce/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
