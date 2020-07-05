@@ -105,7 +105,7 @@ Development of a programme of action to close the gaps
 Implementation and monitoring
 </div>
 
-<div class="clearfix"><br></div>
+<br>
 
 The first step is to define those functions of e-commerce, which need to be improved from a benchmarking point of view. Thus it is not necessary to aspire to make "all and at once" as the considerable quantity of the formulated problems will make the project practically impossible. Here those functions demanding improvement, on which the economic result of the activity of the enterprise to the highest degree depends are defining.
 

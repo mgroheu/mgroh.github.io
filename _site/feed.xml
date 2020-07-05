@@ -5,8 +5,8 @@
     <description>Blogging about the digital economy, brand and strategic management</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2020 19:00:32 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2020 19:00:32 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2020 19:23:14 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2020 19:23:14 +0200</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -22,8 +22,10 @@
 
 &lt;p&gt;Nowadays, business is undergoing fundamental transformations. The introduction of digital technologies, telecommunications and globalisation in the economy has radically changed the nature of each firm and their approaches to value creation. The transformation of business has affected such traditional industries as education, insurance, health care, automotive, trade, as well as new areas of activity, such as Internet search engines, social networks, etc. The transformation of business has also affected the development of new industries. This transformation is based on two principles :&lt;/p&gt;
 
-&lt;p&gt;1) value is created based on the unique and individual experience of consumers. Companies need to learn how to focus their attention on each consumer;
-2) no company, no matter how large in a scale of its actions, will be able to satisfy the needs of the client fully. All companies, through access to network resources, form a global ecosystem. What matters here is access to resources, not ownership.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Value is created based on the unique and individual experience of consumers. Companies need to learn how to focus their attention on each consumer;&lt;/li&gt;
+  &lt;li&gt;No company, no matter how large in a scale of its actions, will be able to satisfy the needs of the client fully. All companies, through access to network resources, form a global ecosystem. What matters here is access to resources, not ownership.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Now the Internet allows accelerating rates of development both established and new business, operatively to enter the market. It becomes a priority factor of competitiveness, changes the scale of the world space.&lt;/p&gt;
 
@@ -31,7 +33,7 @@
 
 &lt;p&gt;The attractiveness of e-commerce is related to the following factors:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;The Internet is becoming the norm of business life everywhere;&lt;/li&gt;
+  &lt;li&gt;the Internet is becoming the norm of business life everywhere;&lt;/li&gt;
   &lt;li&gt;space and time factors are becoming irrelevant, and commercial activities are spreading around the world;&lt;/li&gt;
   &lt;li&gt;transactional (from lat. transactio - making, catch-up, agreement between buyer and seller) costs decrease;&lt;/li&gt;
   &lt;li&gt;the conditions of interaction are the same for all enterprises.&lt;/li&gt;
@@ -43,7 +45,7 @@
   &lt;li&gt;increased competition due to the appearance on the market of companies operating only in the network;&lt;/li&gt;
   &lt;li&gt;low entry barriers to e-commerce;&lt;/li&gt;
   &lt;li&gt;network buyers are more demanding because they can compare prices among competing companies in a short period;&lt;/li&gt;
-  &lt;li&gt;The Internet allows to choose suppliers in any country of the world and to establish close mutually advantageous cooperation with it;&lt;/li&gt;
+  &lt;li&gt;the Internet allows to choose suppliers in any country of the world and to establish close mutually advantageous cooperation with it;&lt;/li&gt;
   &lt;li&gt;electronic technologies require an increase in the pace of the company’s work;&lt;/li&gt;
   &lt;li&gt;electronic technologies open new possibilities for reconstruction of a branch chain of values;&lt;/li&gt;
   &lt;li&gt;The Internet is a relatively cheap channel for consumers;&lt;/li&gt;
@@ -61,13 +63,14 @@
   &lt;li&gt;special payment systems;&lt;/li&gt;
   &lt;li&gt;automated warehousing;&lt;/li&gt;
   &lt;li&gt;system for delivery of goods and rendering of services;&lt;/li&gt;
-  &lt;li&gt;system of taxation and customs tariffs;
-marketing service, which includes departments of advertising, sales, pricing, web-page design.&lt;/li&gt;
+  &lt;li&gt;system of taxation and customs tariffs;&lt;/li&gt;
+  &lt;li&gt;marketing service, which includes departments of advertising, sales, pricing, web-page design.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;When choosing an online store, the assortment of goods, their availability in stock and delivery speed are crucial for an interactive buyer. Thus, a clear idea of the infrastructure of e-commerce company will allow in a reasonable time to design and economically substantiate the structure of the e-commerce trade, reduce labour costs and time to create an effective e-commerce company.&lt;/p&gt;
 
 &lt;p&gt;Well, the theory is more or less clear, but what tasks should be set at benchmarking? Among the tasks of benchmarking research used to study competitors, the following areas should be noted:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;researching and analysing the dynamics of competitors’ market positions in Internet search engines in all segments of the target market;&lt;/li&gt;
   &lt;li&gt;analysis of traffic to competitors’ websites;&lt;/li&gt;
@@ -107,7 +110,7 @@ Development of a programme of action to close the gaps
 Implementation and monitoring
 &lt;/div&gt;
 
-&lt;div class=&quot;clearfix&quot;&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first step is to define those functions of e-commerce, which need to be improved from a benchmarking point of view. Thus it is not necessary to aspire to make “all and at once” as the considerable quantity of the formulated problems will make the project practically impossible. Here those functions demanding improvement, on which the economic result of the activity of the enterprise to the highest degree depends are defining.&lt;/p&gt;
 
