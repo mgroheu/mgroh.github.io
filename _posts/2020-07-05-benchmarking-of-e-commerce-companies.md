@@ -27,8 +27,8 @@ Since the late 1970s, benchmarking has been actively used in Western Europe and 
 
 Nowadays, business is undergoing fundamental transformations. The introduction of digital technologies, telecommunications and globalisation in the economy has radically changed the nature of each firm and their approaches to value creation. The transformation of business has affected such traditional industries as education, insurance, health care, automotive, trade, as well as new areas of activity, such as Internet search engines, social networks, etc. The transformation of business has also affected the development of new industries. This transformation is based on two principles :
 
-1) value is created based on the unique and individual experience of consumers. Companies need to learn how to focus their attention on each consumer;
-2) no company, no matter how large in a scale of its actions, will be able to satisfy the needs of the client fully. All companies, through access to network resources, form a global ecosystem. What matters here is access to resources, not ownership.
+1. Value is created based on the unique and individual experience of consumers. Companies need to learn how to focus their attention on each consumer;
+2. No company, no matter how large in a scale of its actions, will be able to satisfy the needs of the client fully. All companies, through access to network resources, form a global ecosystem. What matters here is access to resources, not ownership.
 
 Now the Internet allows accelerating rates of development both established and new business, operatively to enter the market. It becomes a priority factor of competitiveness, changes the scale of the world space.
 
