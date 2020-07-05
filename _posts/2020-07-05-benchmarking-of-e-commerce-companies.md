@@ -129,4 +129,3 @@ One of the most important stages is the gap analysis stage to understand how far
 - the gap between the current performance and the best performance in the industry.
 
 I hope that after reading you understand that having data is not enough, you need to apply it correctly. That's why, next time, we will talk about how you can prepare a marketing concept by using benchmarking.
-
