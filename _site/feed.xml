@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maximilian Groh - digital and strategy geek with PhD</title>
+    <title>Maximilian Groh - digital and strategy enthusiast with PhD</title>
     <description>Blogging about the digital economy, brand and strategic management</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2020 21:00:51 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2020 21:00:51 +0200</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Mar 2021 10:23:24 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Mar 2021 10:23:24 +0200</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Benchmarking of e-commerce companies</title>
@@ -95,11 +95,11 @@ Selection of industry leaders among direct, parallel, latent competitors as well
 
 &lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
 
-Collection and evaluation of leaders' indicators by selected factors (assortment, price, delivery time, etc.)
+Collection and evaluation of leaders&apos; indicators by selected factors (assortment, price, delivery time, etc.)
 
 &lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
 
-Comparison of leaders' indicators with their indicators to determine gaps
+Comparison of leaders&apos; indicators with their indicators to determine gaps
 
 &lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
 
@@ -138,150 +138,8 @@ Implementation and monitoring
 &lt;p&gt;I hope that after reading you understand that having data is not enough, you need to apply it correctly. That’s why, next time, we will talk about how you can prepare a marketing concept by using benchmarking.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Jul 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies/</guid>
-        
-        <category>strategic management</category>
-        
-        <category>e-commerce</category>
-        
-        
-        <category>e-commerce</category>
-        
-      </item>
-    
-      <item>
-        <title>Benchmarking of e-commerce companies</title>
-        <description>&lt;hr /&gt;
-&lt;p&gt;The world economy has entered the downward spiral. Companies may naively hope that this trend will not affect them, but many of us realise that the probability is very low. In times like these, you have to use tools like benchmarking.&lt;/p&gt;
-
-&lt;p&gt;In recent years, benchmarking has been one of the three most common business management methods in large international corporations. It provides insight into how companies can change their strategy by comparing business processes and performance metrics to industry bests and best practices from other companies.&lt;/p&gt;
-
-&lt;p&gt;Since the late 1970s, benchmarking has been actively used in Western Europe and the USA. Classic examples are Xerox and Ford. The first, having found a weak link in its logistics, took the experience of L.L. Bean to improve their logistics. Ford went to Japan to study the best practices in the field of the automotive industry. As a result of research and application of Japanese developments, this company managed to provide a reduction of significant cost of developed models and fixing of the high-quality level at the stage of development. At the same time, the use of benchmarking allowed to reveal the high cost of assembly processes in comparison with competitors.&lt;/p&gt;
-
-&lt;p&gt;The characteristic feature of the modern economy is that each new technology induces a chain reaction of innovations. The core of information technology and the basis for their development was the Internet economy, which had a qualitative impact on the way of management and brought new methods and technologies in the production and distribution of the product.&lt;/p&gt;
-
-&lt;p&gt;Nowadays, business is undergoing fundamental transformations. The introduction of digital technologies, telecommunications and globalisation in the economy has radically changed the nature of each firm and their approaches to value creation. The transformation of business has affected such traditional industries as education, insurance, health care, automotive, trade, as well as new areas of activity, such as Internet search engines, social networks, etc. The transformation of business has also affected the development of new industries. This transformation is based on two principles :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Value is created based on the unique and individual experience of consumers. Companies need to learn how to focus their attention on each consumer;&lt;/li&gt;
-  &lt;li&gt;No company, no matter how large in a scale of its actions, will be able to satisfy the needs of the client fully. All companies, through access to network resources, form a global ecosystem. What matters here is access to resources, not ownership.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Now the Internet allows accelerating rates of development both established and new business, operatively to enter the market. It becomes a priority factor of competitiveness, changes the scale of the world space.&lt;/p&gt;
-
-&lt;p&gt;According to the results of research conducted by IDC, out of 11 thousand heads of enterprises all over the world, almost 40% consider participation in the electronic market to be essential for their company. Thus in fast-developing countries of South East Asia, the USA and others, this share reaches 50-60 %.&lt;/p&gt;
-
-&lt;p&gt;The attractiveness of e-commerce is related to the following factors:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;the Internet is becoming the norm of business life everywhere;&lt;/li&gt;
-  &lt;li&gt;space and time factors are becoming irrelevant, and commercial activities are spreading around the world;&lt;/li&gt;
-  &lt;li&gt;transactional (from lat. transactio - making, catch-up, agreement between buyer and seller) costs decrease;&lt;/li&gt;
-  &lt;li&gt;the conditions of interaction are the same for all enterprises.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Internet technologies also influence the market structure; signs of it are shown in the following:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Internet involves all companies regardless of their location in global competition;&lt;/li&gt;
-  &lt;li&gt;increased competition due to the appearance on the market of companies operating only in the network;&lt;/li&gt;
-  &lt;li&gt;low entry barriers to e-commerce;&lt;/li&gt;
-  &lt;li&gt;network buyers are more demanding because they can compare prices among competing companies in a short period;&lt;/li&gt;
-  &lt;li&gt;the Internet allows to choose suppliers in any country of the world and to establish close mutually advantageous cooperation with it;&lt;/li&gt;
-  &lt;li&gt;electronic technologies require an increase in the pace of the company’s work;&lt;/li&gt;
-  &lt;li&gt;electronic technologies open new possibilities for reconstruction of a branch chain of values;&lt;/li&gt;
-  &lt;li&gt;The Internet is a relatively cheap channel for consumers;&lt;/li&gt;
-  &lt;li&gt;electronic technologies for their perfection regularly require applying new technical knowledge and experience of developers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It is necessary to take into account the fact that e-commerce systems significantly differ from traditional types of trade and require the development of their infrastructure elements, the main of which are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;special software;&lt;/li&gt;
-  &lt;li&gt;database and application management system;&lt;/li&gt;
-  &lt;li&gt;telecommunications and communication;&lt;/li&gt;
-  &lt;li&gt;a system ensuring the security of acts of sale of goods and provision of services;&lt;/li&gt;
-  &lt;li&gt;legal support;&lt;/li&gt;
-  &lt;li&gt;special payment systems;&lt;/li&gt;
-  &lt;li&gt;automated warehousing;&lt;/li&gt;
-  &lt;li&gt;system for delivery of goods and rendering of services;&lt;/li&gt;
-  &lt;li&gt;system of taxation and customs tariffs;&lt;/li&gt;
-  &lt;li&gt;marketing service, which includes departments of advertising, sales, pricing, web-page design.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When choosing an online store, the assortment of goods, their availability in stock and delivery speed are crucial for an interactive buyer. Thus, a clear idea of the infrastructure of e-commerce company will allow in a reasonable time to design and economically substantiate the structure of the e-commerce trade, reduce labour costs and time to create an effective e-commerce company.&lt;/p&gt;
-
-&lt;p&gt;Well, the theory is more or less clear, but what tasks should be set at benchmarking? Among the tasks of benchmarking research used to study competitors, the following areas should be noted:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;researching and analysing the dynamics of competitors’ market positions in Internet search engines in all segments of the target market;&lt;/li&gt;
-  &lt;li&gt;analysis of traffic to competitors’ websites;&lt;/li&gt;
-  &lt;li&gt;collection of information about competitors’ goods and services, their quality and purpose;&lt;/li&gt;
-  &lt;li&gt;the analysis of price and assortment policy of competitors;&lt;/li&gt;
-  &lt;li&gt;analysis of competitors’ advertising policies on the network (banners, search engine advertising, nature of the use of other types of advertising);&lt;/li&gt;
-  &lt;li&gt;SWOT-analysis of the received information.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let’s move on to the algorithm. I suggest to include the following stages in the algorithm of monitoring the process of benchmarking analysis of e-commerce:&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt;
-Definition of functions of e-commerce, the analysis of which can be carried out from the point of view of benchmarking
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
- 
-Identification of factors and variables to be analysed
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
- 
-Selection of industry leaders among direct, parallel, latent competitors as well as companies outside the industry
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-
-Collection and evaluation of leaders' indicators by selected factors (assortment, price, delivery time, etc.)
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-
-Comparison of leaders' indicators with their indicators to determine gaps
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-
-Development of a programme of action to close the gaps
-
-&lt;div class=&quot;text-center&quot;&gt;&lt;i class=&quot;fas fa-arrow-down&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-
-Implementation and monitoring
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The first step is to define those functions of e-commerce, which need to be improved from a benchmarking point of view. Thus it is not necessary to aspire to make “all and at once” as the considerable quantity of the formulated problems will make the project practically impossible. Here those functions demanding improvement, on which the economic result of the activity of the enterprise to the highest degree depends are defining.&lt;/p&gt;
-
-&lt;p&gt;At the second stage, concrete factors and the variables demanding improvements which can be decomposed on levels: variables, processes, divisions etc. are allocated.&lt;/p&gt;
-
-&lt;p&gt;At the third stage, the choice of leaders of the branch or outside it is carried out. These can be direct competitors, competitors in related fields, latent competitors, i.e. those companies with which the given enterprise does not compete now, but which can become such for it at a particular stage in appropriate conditions. It is desirable that the list of such real leaders was not very extensive, 7-9 companies - real leaders in terms of market share, sales volume growth, profitability, etc. - are enough.&lt;/p&gt;
-
-&lt;p&gt;At the fourth stage, there is a collection and evaluation of market leaders’ indicators on open sources of information (commission reports, articles in the business press, exhibition data, direct contacts with companies of other industries, suppliers, informal contacts of employees of competing firms).&lt;/p&gt;
-
-&lt;p&gt;At the fifth stage, the comparison of similar indicators of leaders with their indicators is carried out to determine the gaps.&lt;/p&gt;
-
-&lt;p&gt;At the sixth stage, programs of action to eliminate gaps are developed. It can be the program on the achievement of results of the leader, on copying of activity of competitors, the program of ahead of competitors based on the information from other branches, change of rules of the game in the market: the advancement of new products, change of segments of the market, change of target group of clients etc.&lt;/p&gt;
-
-&lt;p&gt;At the seventh stage, it is advisable to systematically monitor the results of benchmarking, including it in the annual business planning cycle, controlling its solvency, including other areas of the company.&lt;/p&gt;
-
-&lt;p&gt;One of the most important stages is the gap analysis stage to understand how far this enterprise lags behind the leaders. In the literature, it is called GAP-Analysis. This analysis helps to identify problem areas that hinder the development of the company. These gaps can generally be included:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;the gap between the market supply of the company and the level of demand existing in the market;&lt;/li&gt;
-  &lt;li&gt;the gap between the current activity or business processes and their characteristics and vision, from the manager’s point of view, as it should ideally be;&lt;/li&gt;
-  &lt;li&gt;the gap between the actual goals and objectives of the company as a whole and the employees in particular;&lt;/li&gt;
-  &lt;li&gt;the gap between the current performance and the best performance in the industry.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I hope that after reading you understand that having data is not enough, you need to apply it correctly. That’s why, next time, we will talk about how you can prepare a marketing concept by using benchmarking.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 May 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies_old/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies_old/</guid>
+        <link>/blog/e-commerce/benchmarking-of-e-commerce-companies/</link>
+        <guid isPermaLink="true">/blog/e-commerce/benchmarking-of-e-commerce-companies/</guid>
         
         <category>strategic management</category>
         
@@ -361,8 +219,8 @@ Different models are used in the coaching of enhancement of emotional quotient (
 In terms of tactics, coaching technologies vary from educational sessions and seminars to auto-trainings and consulting. Gaining the achievements of the technologies of behavioural therapy, training and tutorship, coaching enables to perceive the philosophy of personal development with reliance on changing of attitudes of the leadership management nonviolently — from problem-focused interaction to dealing with the potentials and resources.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
+        <link>/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
+        <guid isPermaLink="true">/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
         
         <category>leadership</category>
         
@@ -404,8 +262,8 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 
 </description>
         <pubDate>Tue, 14 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/leadership/what-is-leadership-coaching/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/what-is-leadership-coaching/</guid>
+        <link>/blog/leadership/what-is-leadership-coaching/</link>
+        <guid isPermaLink="true">/blog/leadership/what-is-leadership-coaching/</guid>
         
         <category>leadership</category>
         
@@ -443,10 +301,10 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 
 &lt;p&gt;It is widely preferred to use the term “emotional quotient” (EQ), meaning the raw talents by emotional intelligence while emotional quotient should be understood as an ability to use the raw talents. EQ includes four groups of skills:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;recognizing of one's own emotions;&lt;/li&gt;
-&lt;li&gt;recognizing of other people's emotions;&lt;/li&gt;
-&lt;li&gt;managing of one's own emotions;&lt;/li&gt;
-&lt;li&gt;managing of other people's emotions.&lt;/li&gt;
+&lt;li&gt;recognizing of one&apos;s own emotions;&lt;/li&gt;
+&lt;li&gt;recognizing of other people&apos;s emotions;&lt;/li&gt;
+&lt;li&gt;managing of one&apos;s own emotions;&lt;/li&gt;
+&lt;li&gt;managing of other people&apos;s emotions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;According to various researches described by D. Goleman in his book “Emotional intelligence”, only from 4% to 25% of success in any activity is determined by intelligence. Based on the results of research carried out by him, 33% of successfulness any activity is determined by the intelligence quotient (IQ). As for the effectiveness of a manager, it depends on IQ only by 15%.&lt;/p&gt;
 
@@ -454,22 +312,22 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 
 &lt;p&gt;In general, emotional quotient consists of the following separate emotional competences:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Self-understanding (self-awareness)&lt;/em&gt;: understanding of one's own internality, conceptions, resources and intuitions.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Emotional self-awareness&lt;/em&gt;: recognition of one's own emotions and their impact.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Accurate self-assessment&lt;/em&gt;: knowing one's strengths and limits (weaknesses).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Self-respect&lt;/em&gt;: sense of one's self-worth and recognition of one's abilities.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Self-management&lt;/em&gt;: management of one's internality, impulses and resources.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Self-understanding (self-awareness)&lt;/em&gt;: understanding of one&apos;s own internality, conceptions, resources and intuitions.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Emotional self-awareness&lt;/em&gt;: recognition of one&apos;s own emotions and their impact.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Accurate self-assessment&lt;/em&gt;: knowing one&apos;s strengths and limits (weaknesses).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Self-respect&lt;/em&gt;: sense of one&apos;s self-worth and recognition of one&apos;s abilities.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Self-management&lt;/em&gt;: management of one&apos;s internality, impulses and resources.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Self-control&lt;/em&gt;: keeping of disruptive emotions and impulses under control.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Transparency&lt;/em&gt;: maintaining of standards of honesty and integrity.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Consciousness&lt;/em&gt;: assuming of personal responsibility for performing of something.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Adaptability&lt;/em&gt;: flexibility in adapting to external changes.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Orientation towards achievements&lt;/em&gt;: endeavors to improve and comply with the standards of excellence.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Initiative&lt;/em&gt;: readiness to act as an opportunity is offered.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Social awareness&lt;/em&gt;: understanding of other people's emotions, needs and concerns.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Empathy&lt;/em&gt;: sensing and understanding of other person's emotions and expectations as well as active involvement in his problems.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Social awareness&lt;/em&gt;: understanding of other people&apos;s emotions, needs and concerns.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Empathy&lt;/em&gt;: sensing and understanding of other person&apos;s emotions and expectations as well as active involvement in his problems.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Organizational awareness&lt;/em&gt;: understanding of intra-group emotional flows as well as balance and relationships of power at the organizational level.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Social skills&lt;/em&gt;: guiding and motivating with a compelling vision.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Developing of other people&lt;/em&gt;: sensing of other people's needs for development and bolstering of their abilities.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Developing of other people&lt;/em&gt;: sensing of other people&apos;s needs for development and bolstering of their abilities.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Leadership&lt;/em&gt;: ability to inspire individuals and to manage teams.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Influence&lt;/em&gt;: wielding of effective tactics for persuasion.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Communication&lt;/em&gt;: listening well and being persuasive.&lt;/li&gt;
@@ -500,17 +358,17 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 
 &lt;p&gt;Performance indicators of improvement of emotional intelligence can be defined in the following way:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;with respect to awareness of one's feelings and emotions: intuition, optimism, commitment, flexibility, self-consciousness, perception, self-assessment, aspiration, empathy and self-observation;&lt;/li&gt;
-&lt;li&gt;with respect to the management of one' feelings and emotions: observation skills, open-mindedness to new experience, involvement, the ability for development, emotional competence, positive thinking, listening well, responsibility, tolerance, self-control and achievement motivation;&lt;/li&gt;
-&lt;li&gt;with respect to recognition of feelings and emotions of other people: cooperation, interpersonal skills, transparency to interaction, development of partner's interests, respect of other people's opinion, teamwork skills, assertiveness, leadership, trust, suggestion and anticipation.&lt;/li&gt;
+&lt;li&gt;with respect to awareness of one&apos;s feelings and emotions: intuition, optimism, commitment, flexibility, self-consciousness, perception, self-assessment, aspiration, empathy and self-observation;&lt;/li&gt;
+&lt;li&gt;with respect to the management of one&apos; feelings and emotions: observation skills, open-mindedness to new experience, involvement, the ability for development, emotional competence, positive thinking, listening well, responsibility, tolerance, self-control and achievement motivation;&lt;/li&gt;
+&lt;li&gt;with respect to recognition of feelings and emotions of other people: cooperation, interpersonal skills, transparency to interaction, development of partner&apos;s interests, respect of other people&apos;s opinion, teamwork skills, assertiveness, leadership, trust, suggestion and anticipation.&lt;/li&gt;
 &lt;li&gt;with respect to the management of feelings and emotions of other people: appropriate assessment of other people, ability to forecast the behaviour of others, empathy, transparency, appreciation of emotional interaction, positive resolution of conflicts, collaboration, identification and sympathy.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Including of emotional intelligence in training programs or in enhancing the training of managers enables to identify the critical dominants in the professional development of personnel as well as to ensure the effectiveness of creating of drivers of management activity or improvement thereof.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</guid>
+        <link>/blog/leadership/improvement-emotional-intelligence-managers/</link>
+        <guid isPermaLink="true">/blog/leadership/improvement-emotional-intelligence-managers/</guid>
         
         <category>leadership</category>
         
@@ -555,8 +413,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;p&gt;In the past 30 years, a paradigm shift has occurred in marketing away from a focus on the exchange to a focus on creating relationships with consumers. This paradigm shift for marketing executives implies that marketing management has become more about relationship building than about the purchase of a good or service. Marketing executives must oversee the relationship management of the products and companies for which they are responsible. They must manage marketing processes in such a way as to make the consumer the focus of their efforts. The marketing executives that are unwilling to make the consumer the focus of the marketing process will likely find that it is difficult to attract consumers to their brands, and may even harm the long-term reputations of their companies.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
+        <link>/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
+        <guid isPermaLink="true">/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
         
         <category>marketing management</category>
         
@@ -586,8 +444,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 
 </description>
         <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/leadership-people-system-self/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/leadership-people-system-self/</guid>
+        <link>/blog/leadership/leadership-people-system-self/</link>
+        <guid isPermaLink="true">/blog/leadership/leadership-people-system-self/</guid>
         
         <category>leadership</category>
         
@@ -622,8 +480,8 @@ Nevertheless, in Australia, patents and business sponsored R&amp;amp;D continued
 
 </description>
         <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
+        <link>/blog/leadership/essence-human-capital-impact-technological-progress/</link>
+        <guid isPermaLink="true">/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
         
         <category>leadership</category>
         
@@ -665,8 +523,8 @@ Superfluousness as a factor preconditioning buying decision of luxury goods “s
 &lt;p&gt;It is thus evident that despite economic turmoil, the luxury industry continues its growth and development. It is attributed to the fact that the buying decision of luxury goods is preconditioned not only by economic, but also psychological factors. It can be concluded that the reasons for which customers choose to buy luxury products do not differ substantially from country to country. Customers consider buying luxury goods because the process is associated with a wide range of experiences, including perceived reliability, opportunity to classify oneself to a particular group of people, and unique aesthetic satisfaction. Although the perception of these and other discussed factors may change over time, the knowledge of them is fundamental. It provides insights into how the luxury industry resists economic turmoil and secures sustainability.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
+        <link>/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
+        <guid isPermaLink="true">/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
         
         <category>luxury</category>
         
@@ -725,8 +583,8 @@ Management systems of the third type will be characterized by building up of a n
 &lt;p&gt;These days it is not enough to update business process in some way or another. The objective is to accomplish significant reconstruction of the entire system of business process and to achieve a real breakthrough in its development in compliance with new parameters of performance of the market-driven economy. New philosophy implies abandoning of traditional principles of organization and operation and customary pyramid hierarchy structures.  Nowadays production systems shall develop, based on the concept of re-integration of separate operations in unified business processes, i.e., in interconnected and consistent sets of operations (inclusive of management operations) creating an outcome which is of value for consumers.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
+        <link>/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
+        <guid isPermaLink="true">/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
         
         <category>strategic management</category>
         
@@ -734,6 +592,144 @@ Management systems of the third type will be characterized by building up of a n
         
         
         <category>strategic-management</category>
+        
+      </item>
+    
+      <item>
+        <title>Methods of Brand Protection</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;In the article “&lt;a href=&quot;https://mgroh.eu/blog/brand-management/methods-risk-assessment-brand-management/&quot;&gt;Methods of Risk Assessment in Branding&lt;/a&gt;”, I described the methods of risk assessment. You have assessed the risks and now ask yourselves: But how can we protect our brand? And it is one of the most important questions nowadays. Having entered the market, a brand goes through different stages of its development, transforming the brand essence from a set of identifying elements to the value which is perceived by consumers as a set of functional and emotional elements making a whole with the product and the way of its representation.&lt;/p&gt;
+
+&lt;p&gt;The process of formation of emotional attitude to a brand can also include the following phases: brand awareness, obtaining further information, respect, loyalty, brand confidence, friendship and long-term partnership. Therefore, when it comes to brands, it is necessary to speak about the existence of a notion of the brand lifecycle the phases of which include brand creation, the market launch of the brand, brand development and ageing of the brand. Nevertheless, this notion is absent in the majority of sources related to branding. Many existing brands start with one product and continue to grow, comprising a variety of products. Even though the ability to remain unchanged for an extended period is one of the essential characteristics of the brand, all brands experience a process of ageing.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A brand for a company is like a reputation for a person. It’s hard to build and easy to lose.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;text-align: right;font-weight: bold;&quot;&gt; Maximilian Groh&lt;/p&gt;
+
+&lt;p&gt;In my opinion, the phases of development and maturity of brand constitute the main object of application of various techniques of brand protection, including as it relates to a maximum increase of time duration of the maturity period and preventing from transition to ageing and decay. Since it is during the third and the fourth phases that the profit rate is increasing, a problem of possible ambush marketing arises which is related to the technique of promotion of one’s products with the use of elements of someone else’s brand with high capitalization.&lt;/p&gt;
+
+&lt;p&gt;On the other part, a lifetime of the brand is not critical if within the minimum period such brand has carried out the mission with respect to the volume of sales. As can be seen from the above, the time frame within which the protective mechanisms of the brand shall be activated is rather inexplicit. From this perspective, it is necessary to mark out two approaches to brand protection:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Proactive&lt;/em&gt;&lt;/strong&gt; approach includes methods which prevent unlawful use of brand before the finding of facts of such use and is mainly applied at the phases of creation and launch of the brand;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Reactive&lt;/em&gt;&lt;/strong&gt; approach implies employing of methods of response to already existing violations and using of elements of someone else&apos;s brand when promoting one&apos;s products and is mainly applied at the phase of brand maturity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Methods of brand protection can be considered in the context of the following aspects:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Acquisition of control in the related areas;&lt;/li&gt;
+&lt;li&gt;Limitation;&lt;/li&gt;
+&lt;li&gt;Diversification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Acquisition of control in the related areas &lt;/em&gt;means, first of all, long-term planning of brand development. Even having the main characteristics, not every brand is successful. Thus, according to the statistics, the overwhelming majority of brands (more than 90%) exit from the market during the first 2-3 years of their existence. Managerial methods of brand protection shall be aimed at creation of such brand characteristics as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;general purposefulness: the brand is able to ensure competitive advantage irrespective of what the company is engaged in;&lt;/li&gt;
+&lt;li&gt;ability to arouse interest in itself: strong brands are able to give new birth to enterprises and sometimes even to branches of industry;&lt;/li&gt;
+&lt;li&gt;being under constant supervision: to maintain the strength of brands, it is necessary to work consistently with them; it enables us to avoid a limited lifecycle;&lt;/li&gt;
+&lt;li&gt;formation of brand equity which is the added value with which he brand empowers its products.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Brand equity can be represented in various preferred actions or the following consumer responses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;greater readiness to try a product or a service;&lt;/li&gt;
+&lt;li&gt;less time duration required for completing of a proposed deal;&lt;/li&gt;
+&lt;li&gt;higher probability that a product or a service will be purchased;&lt;/li&gt;
+&lt;li&gt;readiness to buy products of this brand more often than other products of the same category;&lt;/li&gt;
+&lt;li&gt;readiness to pay the premium price;&lt;/li&gt;
+&lt;li&gt;lower sensitivity to increase in prices;&lt;/li&gt;
+&lt;li&gt;lower propensity to try competitors&apos; offers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Effective brand management shall provide the possibility for the implementation of proactive strategies to maintain and accumulate of brand equity. Effective brand management shall rely on the analysis of the consequences of marketing decisions with respect to the development of the brand in future, include brand endorsement and search for new sources of capital. Maintaining and long-term development of the created brand includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;making changes in brand perception;&lt;/li&gt;
+&lt;li&gt;investments in brand development;&lt;/li&gt;
+&lt;li&gt;variety of tactical approaches for supporting the strategies with respect to the priority lines of brand development;&lt;/li&gt;
+&lt;li&gt;recovery and promotion of the brand, including by means of returning to the initial positioning and values of the brand;&lt;/li&gt;
+&lt;li&gt;entry of brand into new markets;&lt;/li&gt;
+&lt;li&gt;repositioning.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the real world of brand development, occupation of a position implies repositioning in most cases. As a rule, an operating company already has a definite position. It is necessary to understand in the majority of cases whether it is worthwhile to carry out repositioning. To make such a conclusion, it is necessary to figure out what the current position is like. When repositioning, the following principles shall be taken into consideration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;repositioning is an integral part of brand development;&lt;/li&gt;
+&lt;li&gt;brand should not be repositioned too often;&lt;/li&gt;
+&lt;li&gt;constant research and analysis of consumer needs and actions of competitors is required;&lt;/li&gt;
+&lt;li&gt;repositioning means costs associated with the creation of an image for the purpose of changing of perception;&lt;/li&gt;
+&lt;li&gt;all the products or services available in the channels of distribution shall be changed in line with the new repositioning;&lt;/li&gt;
+&lt;li&gt;maximization of efforts which can impact the brand perception;&lt;/li&gt;
+&lt;li&gt;to carry out repositioning, it is required to add value or to change the target audience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Models of traditional marketing usually solve the problem of brand extension from the standpoint of mixing of different product categories and transfer of the positive image of the existing brand to some other product. Making decisions on new products and brand extension with the use of an empirical approach is predetermined by three factors:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the extent to which the new product and extension will be beneficial to the empirical image of the company or brand;&lt;/li&gt;
+&lt;li&gt;the extent to which the new product and extension will bring new emotions which can be intensified in additional new products and further brand extensions;&lt;/li&gt;
+&lt;li&gt;the extent to which they will contribute to the creation of holistic emotions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Long-term development of the brand also includes its differentiation related to the output of premium goods for making more significant profits. Differentiation of brand is connected with market segmentation, finding of target markets and the creation of brands for certain groups of consumers. Diversification of brand makes it possible to sell a wide range of products under one brand which enables the brand to survive in the environment of a rapidly changing consumer market. Diversification is directly related to the development of the concept of an umbrella brand. Companies should strive for endorsement of their brands and retain the market share, flavouring the brands with a particular emotional image. Expansion of influence of known and expensive brand enables a company to maintain interest in the brand as long as possible.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, long-term development of brand should also include optimization of the brand portfolio for the purpose of identifying of such assets protection of which is complicated. Basic names which imply conventional product description (branding) pertain to such brands. It is generally accepted to use the best-known types of brand architecture – Branded House and House of Brands – for a description of the brand portfolio. In the first case, a single brand (master brand) is used for embracing of a line of offers introduced under sub-brands. In the second case, a group of individual brands is used, which exist independently and are oriented towards increasing the market share and maximizing of profits. Consumers build their relations with brands based on direct and indirect experience. That is why interaction between brands of the same portfolio can have a favourable or adverse impact on increasing of value both of a single brand and the entire portfolio.&lt;/p&gt;
+
+&lt;p&gt;When creating the brand portfolio, the key moment is to determine the principles of its creation. The standard architectures of portfolio are as follows: &lt;em&gt;by price levels (high, middle and low), by consumer choice and product features &lt;/em&gt;and &lt;em&gt;by assortment groups.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So far as the creation of new possibilities requires distribution of investments among many brands, it is necessary to focus on a balanced portfolio of brands rather than on individual brands. Not all brands make an equal contribution to the increase in the value of the brand portfolio. That is why it is necessary to assess the brands included in the portfolio with regard to compliance with the key possibilities and availability of potential for the creation of value. Such assessment enables to arrange brands in terms of their investment attractiveness.
+&lt;em&gt;Limitation &lt;/em&gt;implies using methods of control of brand profitability and launching of pilot projects. Control of brand profitability can be exercised in three main directions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Assessment of value of the brand itself;&lt;/li&gt;
+&lt;li&gt;Assessment of brand impact on sales effectiveness;&lt;/li&gt;
+&lt;li&gt;Assessment of brand impact on the value of the company shares.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The method of discounted cash flows developed by Interbrand in 1989 is the best-known approach used for the assessment of brand value. Forecast of future cash inflows generated by the brand underlies this method. Its advantage is that the method of assessment of brand value by discounted cash flows is the mirror reflection of the method used by investors for a valuation of companies and thereby it associates a brand value with the value of company shares. Another approach to the assessment of brands proposed by The Boston Consulting Group involves a calculation of brand value by such indicators as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;increase in mark-up (consumers are ready to buy products at higher prices);&lt;/li&gt;
+&lt;li&gt;increase in volumes of sales (volume of sales of branded products is higher than of that of similar unbranded products;&lt;/li&gt;
+&lt;li&gt;brand expansion (brand gives additional value to other products).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assessment of brand impact on sales effectiveness enables to identify how great is the contribution of the brand to the current total successfulness of sales of a company and how steady it is. One can speak about quantitative change in the impact of the brand strength on sales of a company. In this case, analysis of the following indicators should be carried out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;contribution of the brand to increase in profitability of product in relation to unit costs for brand endorsement;&lt;/li&gt;
+&lt;li&gt;contribution of the brand to increase in the volume of sales of these products in relation to the volume of sales of similar unbranded products through these channels of distribution;&lt;/li&gt;
+&lt;li&gt;possibility of brand extension and extension of its target segment in the medium term; it enables to assess how much additional cash flows can increase from using of the brand in future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Therefore, control of brand profitability depends to a large extent on the chosen evaluation technique, price category to which the brand pertains and on the occupied market share. With respect to brands of the premium price category, transfer to the standard price category means, as a rule, decrease in profitability. That is why constant control is required with respect to the price category to which the product pertains, in the first place, from the standpoint of consumers. When exercising control and making decisions, it is advisable to establish a balance between the short-term indicators (price category of brand, amount of profit, etc.) and the long-term indicators of brand development (image, perception).&lt;/p&gt;
+
+&lt;p&gt;Launching of pilot projects on validation of idea, concept and imagery of brand enables to assess the prospects for development and the possibilities of profit-making before the market launch of the brand. It should be taken into consideration that resources spent in this connection offer the possibility to obtain the respective experience, to adjust the identified shortcomings on a timely basis before the phase of market launch and to avoid financial losses.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Diversification&lt;/em&gt; as one of the methods of managerial protection of brand involves control of the points of contact with customers and with a delegation of control of communications to the consumers. Points of contact with the brand (brand-touch points) shall be understood to mean all the means of interrelation between brand and consumers, employees and other interested persons of the company.&lt;/p&gt;
+
+&lt;p&gt;Thus, S. Davis and M. Dunn (Davis, Scott M., and Michael Dunn. &lt;em&gt;Building the brand-driven business: Operationalize your brand to drive profitable growth&lt;/em&gt;. San Francisco, CA, 2002.) propose to classify the points in four categories by different parameters of interrelation between brand and consumers: points of contact before making a purchase which influence the final decision of a customer to purchase a product; points of contact when making a purchase which facilitate the very purchasing of the product; points of influence which show up after the sale of the product, including its use and servicing; supportive points of contact which indirectly assist a brand in making of the appropriate impression on consumers and partners. It is characteristic that the brand-touch points of the first two types play a critical role with regard to achieving of the short-term objectives of brand development while the brand-touch points of the third and fourth types play a crucial role in relation to the long-term perspectives.&lt;/p&gt;
+
+&lt;p&gt;The following priority points of contact can be distinguished analysis and control whereof appear to be the most important for the purpose of implementation of the methods of brand protection:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Printed, outdoor, TV and radio advertising;&lt;/li&gt;
+&lt;li&gt;Display in the points of sale;&lt;/li&gt;
+&lt;li&gt;Using of web-site;&lt;/li&gt;
+&lt;li&gt;Commercial partners who direct actions of consumers when making decisions on purchase;&lt;/li&gt;
+&lt;li&gt;Support desk in the format of a call-center;&lt;/li&gt;
+&lt;li&gt;Employees of the company, both currently employed and ex-employees;&lt;/li&gt;
+&lt;li&gt;Analyst who monitor operations of the company;&lt;/li&gt;
+&lt;li&gt;Existing customers of the company who come into play, among other things, and influence the process of making of decisions on purchase by other consumers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Balanced use of human and brand resources should be brought into focus, thus ensuring the internal activity when implementing the measures of brand protection.
+The said instruments and methods of brand protection are primarily based not only on the long-term planning of brand development and designing of brand strategy but also on exercising of constant control of brand profitability, contact of the brand with consumers, monitoring and optimization of brand portfolio and closer attention when carrying out of company reorganization. As can be seen from the above, constant monitoring of brand development and performance as well as carrying out of the procedure for brand audit are among the conditions of brand protection.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/blog/brand-management/methods-brand-protection/</link>
+        <guid isPermaLink="true">/blog/brand-management/methods-brand-protection/</guid>
+        
+        <category>brand management</category>
+        
+        <category>brand protection</category>
+        
+        <category>methods</category>
+        
+        
+        <category>brand-management</category>
         
       </item>
     
