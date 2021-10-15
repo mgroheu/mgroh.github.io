@@ -3,11 +3,11 @@
   <channel>
     <title>Maximilian Groh - digital and strategy enthusiast with PhD</title>
     <description>Blogging about marketing, brand and strategic management. This blog represents ONLY my point of view as a person. I do not represent the views of my employer in any way.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Oct 2021 21:36:33 +0200</pubDate>
-    <lastBuildDate>Fri, 15 Oct 2021 21:36:33 +0200</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Oct 2021 21:46:45 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Oct 2021 21:46:45 +0200</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Benchmarking of e-commerce companies</title>
@@ -138,8 +138,8 @@ Implementation and monitoring
 &lt;p&gt;I hope that after reading you understand that having data is not enough, you need to apply it correctly. That’s why, next time, we will talk about how you can prepare a marketing concept by using benchmarking.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Jul 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/benchmarking-of-e-commerce-companies/</guid>
+        <link>/blog/e-commerce/benchmarking-of-e-commerce-companies/</link>
+        <guid isPermaLink="true">/blog/e-commerce/benchmarking-of-e-commerce-companies/</guid>
         
         <category>strategic management</category>
         
@@ -219,8 +219,8 @@ Different models are used in the coaching of enhancement of emotional quotient (
 In terms of tactics, coaching technologies vary from educational sessions and seminars to auto-trainings and consulting. Gaining the achievements of the technologies of behavioural therapy, training and tutorship, coaching enables to perceive the philosophy of personal development with reliance on changing of attitudes of the leadership management nonviolently — from problem-focused interaction to dealing with the potentials and resources.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
+        <link>/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</link>
+        <guid isPermaLink="true">/blog/leadership/coaching-technologies-enhancing-emotional-quotient-manager/</guid>
         
         <category>leadership</category>
         
@@ -262,8 +262,8 @@ In terms of tactics, coaching technologies vary from educational sessions and se
 
 </description>
         <pubDate>Tue, 14 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/leadership/what-is-leadership-coaching/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/what-is-leadership-coaching/</guid>
+        <link>/blog/leadership/what-is-leadership-coaching/</link>
+        <guid isPermaLink="true">/blog/leadership/what-is-leadership-coaching/</guid>
         
         <category>leadership</category>
         
@@ -367,8 +367,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;p&gt;Including of emotional intelligence in training programs or in enhancing the training of managers enables to identify the critical dominants in the professional development of personnel as well as to ensure the effectiveness of creating of drivers of management activity or improvement thereof.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/improvement-emotional-intelligence-managers/</guid>
+        <link>/blog/leadership/improvement-emotional-intelligence-managers/</link>
+        <guid isPermaLink="true">/blog/leadership/improvement-emotional-intelligence-managers/</guid>
         
         <category>leadership</category>
         
@@ -413,8 +413,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 &lt;p&gt;In the past 30 years, a paradigm shift has occurred in marketing away from a focus on the exchange to a focus on creating relationships with consumers. This paradigm shift for marketing executives implies that marketing management has become more about relationship building than about the purchase of a good or service. Marketing executives must oversee the relationship management of the products and companies for which they are responsible. They must manage marketing processes in such a way as to make the consumer the focus of their efforts. The marketing executives that are unwilling to make the consumer the focus of the marketing process will likely find that it is difficult to attract consumers to their brands, and may even harm the long-term reputations of their companies.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
+        <link>/blog/marketing-management/implications-paradigm-shifts-marketing/</link>
+        <guid isPermaLink="true">/blog/marketing-management/implications-paradigm-shifts-marketing/</guid>
         
         <category>marketing management</category>
         
@@ -444,8 +444,8 @@ Emotional abilities which comprise emotional intelligence are inherent to every 
 
 </description>
         <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/leadership-people-system-self/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/leadership-people-system-self/</guid>
+        <link>/blog/leadership/leadership-people-system-self/</link>
+        <guid isPermaLink="true">/blog/leadership/leadership-people-system-self/</guid>
         
         <category>leadership</category>
         
@@ -480,8 +480,8 @@ Nevertheless, in Australia, patents and business sponsored R&amp;amp;D continued
 
 </description>
         <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
+        <link>/blog/leadership/essence-human-capital-impact-technological-progress/</link>
+        <guid isPermaLink="true">/blog/leadership/essence-human-capital-impact-technological-progress/</guid>
         
         <category>leadership</category>
         
@@ -523,8 +523,8 @@ Superfluousness as a factor preconditioning buying decision of luxury goods “s
 &lt;p&gt;It is thus evident that despite economic turmoil, the luxury industry continues its growth and development. It is attributed to the fact that the buying decision of luxury goods is preconditioned not only by economic, but also psychological factors. It can be concluded that the reasons for which customers choose to buy luxury products do not differ substantially from country to country. Customers consider buying luxury goods because the process is associated with a wide range of experiences, including perceived reliability, opportunity to classify oneself to a particular group of people, and unique aesthetic satisfaction. Although the perception of these and other discussed factors may change over time, the knowledge of them is fundamental. It provides insights into how the luxury industry resists economic turmoil and secures sustainability.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
+        <link>/blog/luxury/consumers-attitude-towards-branded-jewelry/</link>
+        <guid isPermaLink="true">/blog/luxury/consumers-attitude-towards-branded-jewelry/</guid>
         
         <category>luxury</category>
         
@@ -583,8 +583,8 @@ Management systems of the third type will be characterized by building up of a n
 &lt;p&gt;These days it is not enough to update business process in some way or another. The objective is to accomplish significant reconstruction of the entire system of business process and to achieve a real breakthrough in its development in compliance with new parameters of performance of the market-driven economy. New philosophy implies abandoning of traditional principles of organization and operation and customary pyramid hierarchy structures.  Nowadays production systems shall develop, based on the concept of re-integration of separate operations in unified business processes, i.e., in interconnected and consistent sets of operations (inclusive of management operations) creating an outcome which is of value for consumers.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
+        <link>/blog/strategic-management/advanced-approaches-management-enterprise-activities/</link>
+        <guid isPermaLink="true">/blog/strategic-management/advanced-approaches-management-enterprise-activities/</guid>
         
         <category>strategic management</category>
         
@@ -719,8 +719,8 @@ Management systems of the third type will be characterized by building up of a n
 The said instruments and methods of brand protection are primarily based not only on the long-term planning of brand development and designing of brand strategy but also on exercising of constant control of brand profitability, contact of the brand with consumers, monitoring and optimization of brand portfolio and closer attention when carrying out of company reorganization. As can be seen from the above, constant monitoring of brand development and performance as well as carrying out of the procedure for brand audit are among the conditions of brand protection.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/brand-management/methods-brand-protection/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/brand-management/methods-brand-protection/</guid>
+        <link>/blog/brand-management/methods-brand-protection/</link>
+        <guid isPermaLink="true">/blog/brand-management/methods-brand-protection/</guid>
         
         <category>brand management</category>
         
