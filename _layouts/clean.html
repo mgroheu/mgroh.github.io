@@ -113,7 +113,14 @@
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/categories" title="Click here to see article categories">Categories</a>
                 </li>
-                               
+                
+                {% if page.url == "/teaching" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/teaching" title="Click here to see article categories">Teaching</a>
+                </li>
 
                 {% include search-lunr.html %}
 

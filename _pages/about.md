@@ -12,15 +12,22 @@ comments: false
     <img src="{{ site.baseurl }}/assets/images/about_me.jpg" class="book__image" alt="Maximilian Groh">
     <div class="book__text">
 
-<p><em>Trilingual Business Leader (German, Russian, English) with 15+ years’ demonstrated success increasing market share and earnings, reducing costs, and improving client satisfaction in Europe, Russia, Middle East &amp; Africa.</em></p>
+<p><em>Trilingual Business Leader (German, Russian, English) with 15+ years’ demonstrated success increasing market share and earnings, reducing costs, and improving client satisfaction in Europe, Russia, Middle East.</em></p>
 
 <p>My years of experience in the business sector have taught me some extremely crucial lessons. Perhaps the most important is that companies need to be flexible. Flexibility in the corporate world is not just an abstract concept, but rather a necessary reality. To this end, I myself have experienced and worked in just about every aspect of the business world there is. Beginning with my tenure as a sales manager in the consumer industry, I came to understand all facets of the company, from finances, to budget planning, to recruiting on the human resource end of things; I learned the true value of being flexible.</p>
 
 <p>I’ve spent a great deal of time internationally in sales, marketing management as well as procurement / category management. However, the one area with which I have extensive experience and thus, within which I am deeply invested, is the role of the business leader. Having worked as a director for both retail and e-commerce companies, I came to familiarize myself with the structures that were vital to a business’s livelihood. The thing about these structures however is that they are ever changing. The old adage about the only constant being change, particularly rings true in the corporate world. Problem solving, negotiating, realigning, researching and innovating are at the core of management’s role. I learned this time and time again. I strive to impart this wisdom to every company and executive with whom I consult.</p>
 
+<p>Since 2020, I have been an adjunct lecturer at Reutlingen University. I currently teach courses in Digital Marketing, Advanced Digital Marketing, Marketing  & E-Commerce Management. I also teach the Marketing course in MBA Program.</p>
+
 <p>
-From 2016 to 2020 I researched on e-commerce strategies, category management, marketing and wrote a PhD dissertation. Research study addresses the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identifies the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors that reduce their transaction costs. 
-</p>
+I love teaching because it allows me to connect with the students and truly mentor them. Class sizes allow me to know all my students by name (as long as my memory holds out) and get to know their strengths so I can teach more effectively. I enjoy watching students make connections—when the light bulb goes off; it's great to see! I also understand that students today are juggling many different priorities, and it's important for them to be able to connect with someone in their chosen field of study. There is no better way to learn than by doing. It's hard, chaotic and messy. But, when you get through it, you can look back and realise that you have actually learned something. That's what makes teaching and learning at Reutlingen University a meaningful experience.</p>
+<p>
+My role as a faculty advisor is one of the most challenging aspects of my job—and the one that I find most rewarding. Students seem to appreciate being able to come and talk about both challenges and successes and get advice from me about careers, internships and opportunities that come up outside of the classroom.</p>
+<p>
+I have a PhD in Business Administration <strong>(major: Marketing and Strategy)</strong> from the University of Minho, where my dissertation research addressed the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identified the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors that reduce their transaction costs.</p>
+
+
 
 <p><strong>Industry specialisation:</strong></p>
 <p>
@@ -32,18 +39,11 @@ From 2016 to 2020 I researched on e-commerce strategies, category management, ma
 
 <p><strong>Professional specialisation:</strong></p>
 <p>
-- Empowering Employees<br />
-- Executive Leadership<br />
+
 - General Management<br />
+- Marketing Management (digital & traditional) <br />
 - Procurement & Category Management<br />
-- Luxury &amp; Premium Goods Brand Management<br />
-- Retail roll out<br />
-- Conversion from Wholesale to Retail<br />
-- Long term price negotiation &amp; contract agreements<br />
-- Building and Sustaining Relationships<br />
-- Customer Loyalty<br />
-- Process optimization and improvement<br />
-- Project Management</p>
+</p>
 
 <p><strong>Author:</strong></p>
 <ol>
@@ -62,20 +62,10 @@ From 2016 to 2020 I researched on e-commerce strategies, category management, ma
 
 <h4 class="title">EXCERPT FROM RECOMMENDATIONS</h4>
 
-<h5>Senior Sales Director EMEA</h5>
-
-<p><strong>Константин Жигульский, Управленческий консалтинг (100k-pro.ru)</strong></p>
-<blockquote>Maximilian is a true leader who motivates his team through scintillating creativity, sharp strategic thought and raw talent. He pushes boundaries and challenges people to reconsider traditional use of leadership. Always at the forefront of the luxury trends, Maximilian's innovative approach to platforms and projects was a personal source of admiration. Not only does he lead with creative thought, he inspires through flawless execution.
-Maximilian always approaches a problem with how can I make this weakness into a strength and his rapid career progression and experience represent a man who knows how to make a lasting and meaningful impact. Maximilian always inspires people around him to be better every day.
-It is with ease that I recommend Maximilian for any position as he remains an inspiration.
-</blockquote> 
-
 <p><strong>Igor Tarasenko, Chief Digital Officer (CDO) at SEPHORA</strong></p>
 <blockquote>
 While working with Maximilian at SOKOLOV I was impressed with his detailed attitude to business as to global strategy planning and operations including those who need quick and smart decisions. Max represents a top level for business leading and careful team management.
 </blockquote> 
-
-<h5>Sales Manager</h5>
 
 <p><strong>Gary Rogers, Retail Regional Manager at Barratt Homes</strong></p>
 <blockquote>

@@ -1,7 +1,7 @@
 # Site
 name: "Maximilian Groh - digital and strategy enthusiast with PhD"
 title: "Maximilian Groh - digital and strategy enthusiast with PhD"
-description: "Blogging about the digital economy, brand and strategic management"
+description: "Blogging about marketing, brand and strategic management. This blog represents ONLY my point of view as a person. I do not represent the views of my employer in any way."
 logo: 'assets/images/logo.png'
 logo_sm: 'assets/images/logo_sm.png'
 favicon: 'assets/images/logo.ico'
@@ -25,7 +25,7 @@ authors:
     twitter: https://twitter.com/mgroh_eu
     linkedin: https://www.linkedin.com/in/maxgroh/
     donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X9DQD5RDUTUN&source=url
-    description: "Love e-commmerce & brand management, meaningful relationships, and getting things done. Fascinated by people, work, leadership, and strategy."
+    description: "Love marketing, e-commmerce, brand management, meaningful relationships, and getting things done. Fascinated by people, work, leadership, and strategy."
    
  
 # Plugins
