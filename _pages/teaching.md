@@ -28,7 +28,11 @@ As such there are two lenses I must consider when thinking through my profession
 </ul>
 
 <p>
-I can look to the GERA (German Educational Research Association) for guidelines on professional ethics for professors, and the AMA (American Marketing Association) for the guidelines for professional marketers.
+I can look to the GERA (German Educational Research Association) for <a href="https://www.dgfe.de/en/about-dgfe-gera/code-of-ethics" target="_blank">guidelines on professional ethics for professors</a>, and the AMA (American Marketing Association) for the <a href="https://www.ama.org/codes-of-conduct/" target="_blank">guidelines for professional marketers</a>.
+
+
+
+
 </p>
 <p>
 According to the GERA professors/researchers should:
