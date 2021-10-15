@@ -12,7 +12,7 @@ comments: false
 <div class="book__text">
 
 <p>
-My teaching philosophy reflects my current level of development as an educator, and my intent to continue to gain knowledge, skills, and awareness as I expand my professional identity to include both counselor, counselor educator, and higher education professional.
+My teaching philosophy reflects my current level of development as an educator, and my intent to continue to gain knowledge, skills, and awareness as I expand my professional identity to include both professional, and higher education professional.
 </p>
 <p>
 As a professor I have often thought about my “Teaching Philosophy”. As a marketing professional I have also considered carefully what I believe to be ethical and value-focused marketing principles.  As a marketing professor, I walk in two worlds and my obligation to the marketing profession is to prepare students I am privileged to teach for their launch into their professional careers.
