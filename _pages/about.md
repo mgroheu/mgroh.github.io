@@ -42,6 +42,7 @@ I have a PhD in Business Administration <strong>(major: Marketing and Strategy)<
 
 - General Management<br />
 - Marketing Management (digital & traditional) <br />
+- E-Commerce Management <br />
 - Procurement & Category Management<br />
 </p>
 
