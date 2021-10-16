@@ -1,11 +1,16 @@
 ---
 layout: page
-title: TEACHING 
+title: TEACHING
 permalink: /teaching
 comments: false
 ---
 
-#### Teaching philosophy
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
+<a name="philosophy">
+<h4>Teaching philosophy</h4>
+</a>
 
 <div class="book">
 <img src="{{ site.baseurl }}/assets/images/teaching_philosophy.jpeg" class="book__image" alt="Teaching philosophy">
@@ -29,11 +34,8 @@ As such there are two lenses I must consider when thinking through my profession
 
 <p>
 I can look to the GERA (German Educational Research Association) for <a href="https://www.dgfe.de/en/about-dgfe-gera/code-of-ethics" target="_blank">guidelines on professional ethics for professors</a>, and the AMA (American Marketing Association) for the <a href="https://www.ama.org/codes-of-conduct/" target="_blank">guidelines for professional marketers</a>.
-
-
-
-
 </p>
+
 <p>
 According to the GERA professors/researchers should:
 </p>
@@ -82,3 +84,119 @@ It is from the foundation of the GERA and the AMA, along with my desire to alway
 <p>
 I am an educator. I am a marketing educator. I love what I do. Every day I learn something new. Every day I have the opportunity to help individuals in my classroom experience and learn new things. It is a gift that I have been given. Even on my most difficult days, when I take a moment and think about what I do and why I do it, as long as I remember the learning and the students, I can get up and face another sea of faces and challenge them to do their best.
 </p>
+
+<br>
+<hr>
+<br>
+
+<a name="students">
+<h4>For students</h4>
+</a>
+
+
+
+<p>
+<h5>You will be evaluated in the following way:</h5>
+</p>
+
+<p>
+A. TERM PAPERS & ESSAYS
+</p>
+
+<p>
+<b>Plagiarism</b>: Plagiarism, even partial plagiarism, is not a trivial offence. The university legally prosecutes them, and I refer these cases to the necessary authorities. Therefore, every paper is checked for plagiarism. Possible consequences and legal basis can be found in the examination regulations. Lastly, plagiarism can lead to exclusion from the study. 
+</p>
+
+<p>
+<b>Grade 1</b>: A paper graded 1 is written in such a way that it can be read aloud to others. It is clear and organized so that the steps of the argument and its goal are unmistakably clear. The work attests to close and critical engagement with primary and secondary literature, presents it in a focused and didactic manner, uses insightful, appropriate, and specific examples, relates different texts and discussions to one another in terms of content, and, in addition, consists of persuasive, independent, rational arguments that are sensitive to conceptual, linguistic, and argumentative subtleties. The arguments and examples demonstrate sensitivity, depth of research, rationality, creativity, originality, and a desire to convey the paper's topic didactically.
+</p>
+
+<p>
+<b>Grade 2</b>: A paper graded 2 shows many of the qualities of an A paper but has deficiencies in either organization, clarity, wording, or presentation of arguments. The research may be superficial in some places, but it is not wrong or flawed. Some papers in this category are solid, have some good insights, or show independent thought and linkages. Two-graded papers, however, fail to convey these sufficiently clearly and in a well-structured manner and reveal weaknesses in writing style, organizing, researching, communicating, arguing, or handling reasons and evidence without having severe errors.  
+</p>
+
+<p>
+<b>Grade 3</b>: A paper graded a 3 shows little more than a summary of ideas and information conveyed within the seminar. A three-graded paper has deficiencies in research and presentation, is unclearly written and poorly organized, or deals only superficially with the texts and topics.
+</p>
+
+<p>
+<b>Grade 4</b>: While papers in the ones to threes range focus on presentation in grading, papers in the range of the four show severe deficiencies in handling course material, subject vocabulary, or standards of scholarly work and communication. 
+</p>
+
+<p>
+<b>Fail</b>: A paper graded a 5 lacks content competence and effort.  
+</p>
+
+<br>
+
+<p>
+B. ORAL EXAMINATIONS
+</p>
+<p>
+<b>Oral examinations (OE)</b> test knowledge of predetermined content. It is started with general questions about the subject. Then, based on the students' contributions, follow-up questions are asked, and, in some cases, philosophical knowledge beyond the text is tested.
+</p>
+<p>
+<b>Grade 1</b>: An OE graded 1, students demonstrate markedly detailed knowledge of the subject and beyond. Questions are answered directly with proper vocabulary and polished language. Arguments, information, and conceptual distinctions can be reproduced. Sensitivity to conceptual and exegetical subtleties is demonstrated. One's own position on the subject is taken and, when criticized, is either defended or justifiably revised.
+</p>
+<p>
+<b>Grade 2</b>: An OE graded 2, students show knowledge of the subject and specialized vocabulary, but do not take their own position, argue poorly, or make errors.  
+</p>
+<p>
+<b>Grade 3</b>: An OE graded 3, massive errors are evident, both in argumentation and knowledge of the material. Nevertheless, large parts can be reproduced correctly and thoughtfully.
+</p>
+<p>
+<b>Grade 4</b>: Severe deficiencies in the handling of course material, technical vocabulary, argumentation, and presentation.
+</p>
+<p>
+<b>Fail</b>: An OE graded 5 lacks competence in content and argumentation.
+</p>
+
+<br>
+
+<p>
+C. PARTICIPATION & COLLABORATION
+</p>
+<p>
+Creative and rational discussion, as well as argumentation, are core skills. How you engage in discussions can have a positive impact on your final grade. Therefore, I encourage you to participate. (Lack of participation will not negatively impact your final grade.) I use the following criteria for the quality of contributions:
+</p>
+<p>
+<b>Very Good</b>: Students who participate sufficiently in each session by asking questions and contributing their knowledge of the subject and thematic background to the discussion. They engage the contributions and ideas of the subject and other students, respect the opinions of others, and argue rationally, using the correct terms and distinctions and related to the topic of the session. 
+</p>
+<p>
+<b>Good</b>: Students whose participation is good may not come to all sessions or come to each session prepared to demonstrate a deep knowledge of the subject through questions or contributions. They often wait passively for others to raise issues or aspects, then elaborate. They are polite and articulate but do not always listen sufficiently well to others, thereby diverting the discussion from their course. 
+</p>
+<p>
+<b>Satisfactory</b>: Satisfactory participation students attend discussions regularly, but not all, or participate in discussions reluctantly and brittly, but are prepared in content and can contribute when addressed directly.
+</p>
+<p>
+<b>Poor</b>: Poor participation is characterized by not actively attending discussions regularly and not preparing for creative working.
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="sticky-top sticky-top-80">
+
+<h5>Jump to:</h5>
+
+<a href="#philosophy">
+- Teaching Philosophy
+</a> 
+<br/> 
+
+<a href="#students">
+- For Students
+</a> 
+<br/> 
+
+<a href="{{ site.baseurl }}/assets/files/grading-shorthand-nick-byrd-public-domain.pdf" target="_blank" rel="nofollow">
+- Nick Byrd‘s Grading Shortcuts
+</a> 
+<br/> 
+
+
+</div>
+</div>
+</div>
