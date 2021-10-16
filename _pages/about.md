@@ -27,7 +27,7 @@ I love teaching because it allows me to connect with the students and truly ment
 I see myself not only as a lecturer but also as an advisor - this is one of the most challenging aspects of my duties—and the one that I find most rewarding. Students seem to appreciate being able to approach me and talk about both challenges and successes and get advice from me about careers, internships and opportunities that come up outside of the classroom.</p>
 
 <p>
-I have a PhD in Business Administration <strong>(major: Marketing and Strategy)</strong> from the University of Minho, where my dissertation research addressed the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identified the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors that reduce their transaction costs.</p>
+I have a PhD in Business Administration <strong>(major: Marketing and Strategy)</strong> from the University of Minho, where my dissertation research addressed the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identified the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors (marketing, strategy etc.) that reduce their transaction costs.</p>
 
 
 
@@ -55,10 +55,26 @@ I have a PhD in Business Administration <strong>(major: Marketing and Strategy)<
 <li><a href="https://www.springer.com/gp/book/9783030391645">Groh, M. and Simões, C. (2020). “Comparing Product Policy’s Effectiveness for E-commerce Companies”. Proceedings of the 2019 Academy of Marketing Science (AMS) Annual Conference.  <strong>DOI: </strong>110.1007/978-3-030-39165-2</a></li>
 </ol>
 
+<p><strong>Professional Memberships:</strong></p>
+<ul>
+<li>European Marketing Academy</li>
+<li>American Marketing Association</li>
+<li>Academy of Management</li>
+</ul>
+
+<p><strong>Reviewer:</strong></p>
+<ul>
+<li>European Marketing Academy</li>
+<li>American Marketing Association</li>
+<li>Academy of Management</li>
+</ul>
+
 <p><strong>Certifications:</strong></p>
 <ul>
 <li><strong>Lean Six Sigma Black Belt</strong>,  TÜV, <em>License Number: DE-A1146</em></li>
 <li><a href="https://www.youracclaim.com/badges/44ac1d88-3b09-40e8-b2ea-47eb46d712c3"><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></a></li>
+<li>Teaching in Higher Education, European University Institute, Italy</li>
+<li>Baden-Württemberg-Zertifikat für Hochschuldidaktik (Teaching in Higher Education), Germany - it will be completed in Dec 2021.</li>
 </ul>
 
 <hr>
