@@ -22,8 +22,10 @@ comments: false
 
 <p>
 I love teaching because it allows me to connect with the students and truly mentor them. Class sizes allow me to know all my students by name (as long as my memory holds out) and get to know their strengths so I can teach more effectively. I enjoy watching students make connections—when the light bulb goes off; it's great to see! I also understand that students today are juggling many different priorities, and it's important for them to be able to connect with someone in their chosen field of study. There is no better way to learn than by doing. It's hard, chaotic and messy. But, when you get through it, you can look back and realise that you have actually learned something. That's what makes teaching and learning at Reutlingen University a meaningful experience.</p>
+
 <p>
-My role as a faculty advisor is one of the most challenging aspects of my job—and the one that I find most rewarding. Students seem to appreciate being able to come and talk about both challenges and successes and get advice from me about careers, internships and opportunities that come up outside of the classroom.</p>
+I see myself not only as a lecturer but also as an advisor - this is one of the most challenging aspects of my duties—and the one that I find most rewarding. Students seem to appreciate being able to approach me and talk about both challenges and successes and get advice from me about careers, internships and opportunities that come up outside of the classroom.</p>
+
 <p>
 I have a PhD in Business Administration <strong>(major: Marketing and Strategy)</strong> from the University of Minho, where my dissertation research addressed the gap which exists in e-commerce business portfolio literature by evaluating the effectiveness of product policies employed by e-commerce companies. The analysis identified the theoretical institutions that define e-commerce companies and how firms can maximise profits with selected factors that reduce their transaction costs.</p>
 
