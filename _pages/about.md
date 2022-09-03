@@ -75,6 +75,7 @@ I have a PhD in Business Administration <strong>(major: Marketing and Strategy)<
 <li><a href="https://www.youracclaim.com/badges/44ac1d88-3b09-40e8-b2ea-47eb46d712c3"><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></a></li>
 <li>Teaching in Higher Education, European University Institute, Italy</li>
 <li><a href="{{ site.baseurl }}/assets/files/BW_Zertifikat_Groh.pdf" target="_blank" rel="nofollow">Baden-Württemberg-Zertifikat für Hochschuldidaktik (Teaching in Higher Education)</a>, Germany</li>
+<li>Harvard Business Publishing Education: <a href="{{ site.baseurl }}/assets/files/Groh_HE_Seminar_August 2022.pdf" target="_blank" rel="nofollow">Teaching with Cases: Engage, Energise, and Challenge Your Students</a></li>
 <li>HubSpot: <a href="https://app-eu1.hubspot.com/academy/achievements/3dcy5wry/en/1/maximilian-groh/digital-marketing" target="_blank" rel="nofollow">Digital Marketing</a>, <a href="https://app-eu1.hubspot.com/academy/achievements/zq5sk0gj/en/1/maximilian-groh/hubspot-marketing-software" target="_blank" rel="nofollow">HubSpot Marketing Software</a></li>
 <li>Hootsuite: <a href="https://www.credential.net/7ec3b01a-2ca2-4d9e-81ae-fcf5b677f71a" target="_blank" rel="nofollow">Social Marketing</a></li>
 <li>Google: <a href="https://skillshop.exceedlms.com/student/award/Vqkw3qKNjD8ZpgDvEbhqW2bw" target="_blank" rel="nofollow">Google Analytics Individual Qualification</a></li>
