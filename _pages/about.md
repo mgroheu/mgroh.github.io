@@ -72,7 +72,7 @@ I have a PhD in Business Administration <strong>(major: Marketing and Strategy)<
 <p><strong>Certifications:</strong></p>
 <ul>
 <li><strong>Lean Six Sigma Black Belt</strong>,  TÜV, <em>License Number: DE-A1146</em></li>
-<li><a href="https://www.youracclaim.com/badges/44ac1d88-3b09-40e8-b2ea-47eb46d712c3"><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></a></li>
+<li><a href="https://www.youracclaim.com/badges/44ac1d88-3b09-40e8-b2ea-47eb46d712c3" target="_blank" rel="nofollow"><strong>Project Management Professional (PMP)®</strong>, <em>License Number:1939099</em></a></li>
 <li>Teaching in Higher Education, European University Institute, Italy</li>
 <li><a href="{{ site.baseurl }}/assets/files/BW_Zertifikat_Groh.pdf" target="_blank" rel="nofollow">Baden-Württemberg-Zertifikat für Hochschuldidaktik (Teaching in Higher Education)</a>, Germany</li>
 <li>Harvard Business Publishing Education: <a href="{{ site.baseurl }}/assets/files/Groh_HE_Seminar_August 2022.pdf" target="_blank" rel="nofollow">Teaching with Cases: Engage, Energise, and Challenge Your Students</a></li>
