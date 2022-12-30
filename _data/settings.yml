@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Dr. Maximilian Groh
+title: Dr Maximilian Groh
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 'Blogging about marketing, brand and strategic management. This blog represents ONLY my point of view as a person. I do not represent the views of my employer in any way.'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -18,8 +18,8 @@ menu__settings:
       url: '/blog/'
     - title: 'Book'
       url: '/book/'
-    - title: 'Teaching'
-      url: '/teaching/'
+    #- title: 'Teaching'
+      #url: '/teaching/'
     - title: 'Contact'
       url: '/contact/'
    
